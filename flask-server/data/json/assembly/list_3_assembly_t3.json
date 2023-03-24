@@ -1,0 +1,3802 @@
+{
+   "audio_duration": 261,
+   "utterances": [
+      {
+         "confidence": 0.674925,
+         "end": 2026,
+         "speaker": "A",
+         "start": 570,
+         "text": "Autotech. PBK.",
+         "words": [
+            {
+               "text": "Autotech.",
+               "start": 570,
+               "end": 1178,
+               "confidence": 0.51256,
+               "speaker": "A"
+            },
+            {
+               "text": "PBK.",
+               "start": 1274,
+               "end": 2026,
+               "confidence": 0.83729,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.8075100000000001,
+         "end": 4160,
+         "speaker": "B",
+         "start": 2138,
+         "text": "List. Two. Form a.",
+         "words": [
+            {
+               "text": "List.",
+               "start": 2138,
+               "end": 2462,
+               "confidence": 0.95786,
+               "speaker": "B"
+            },
+            {
+               "text": "Two.",
+               "start": 2516,
+               "end": 2926,
+               "confidence": 0.68,
+               "speaker": "B"
+            },
+            {
+               "text": "Form",
+               "start": 3028,
+               "end": 3438,
+               "confidence": 0.68218,
+               "speaker": "B"
+            },
+            {
+               "text": "a.",
+               "start": 3524,
+               "end": 4160,
+               "confidence": 0.91,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9923533333333333,
+         "end": 12032,
+         "speaker": "A",
+         "start": 11220,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 11220,
+               "end": 11584,
+               "confidence": 0.99128,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 11622,
+               "end": 11776,
+               "confidence": 0.99,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 11798,
+               "end": 12032,
+               "confidence": 0.99578,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.991,
+         "end": 12800,
+         "speaker": "B",
+         "start": 12086,
+         "text": "Laugh.",
+         "words": [
+            {
+               "text": "Laugh.",
+               "start": 12086,
+               "end": 12800,
+               "confidence": 0.991,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9909666666666667,
+         "end": 16400,
+         "speaker": "A",
+         "start": 15540,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 15540,
+               "end": 15904,
+               "confidence": 0.98503,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 15942,
+               "end": 16096,
+               "confidence": 0.99,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 16118,
+               "end": 16400,
+               "confidence": 0.99787,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.93645,
+         "end": 17360,
+         "speaker": "B",
+         "start": 16470,
+         "text": "Falls?",
+         "words": [
+            {
+               "text": "Falls?",
+               "start": 16470,
+               "end": 17360,
+               "confidence": 0.93645,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9896066666666666,
+         "end": 21600,
+         "speaker": "A",
+         "start": 20740,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 20740,
+               "end": 21104,
+               "confidence": 0.981,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 21142,
+               "end": 21296,
+               "confidence": 0.99,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 21318,
+               "end": 21600,
+               "confidence": 0.99782,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.96459,
+         "end": 22480,
+         "speaker": "C",
+         "start": 21670,
+         "text": "Paste?",
+         "words": [
+            {
+               "text": "Paste?",
+               "start": 21670,
+               "end": 22480,
+               "confidence": 0.96459,
+               "speaker": "C"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9854366666666667,
+         "end": 26480,
+         "speaker": "A",
+         "start": 25700,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 25700,
+               "end": 26064,
+               "confidence": 0.9707,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 26102,
+               "end": 26208,
+               "confidence": 0.99,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 26214,
+               "end": 26480,
+               "confidence": 0.99561,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.63343,
+         "end": 27280,
+         "speaker": "B",
+         "start": 26550,
+         "text": "Plough?",
+         "words": [
+            {
+               "text": "Plough?",
+               "start": 26550,
+               "end": 27280,
+               "confidence": 0.63343,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9893133333333334,
+         "end": 31432,
+         "speaker": "A",
+         "start": 30620,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 30620,
+               "end": 30984,
+               "confidence": 0.96833,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 31022,
+               "end": 31176,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 31198,
+               "end": 31432,
+               "confidence": 0.99961,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.83934,
+         "end": 32090,
+         "speaker": "B",
+         "start": 31486,
+         "text": "Page?",
+         "words": [
+            {
+               "text": "Page?",
+               "start": 31486,
+               "end": 32090,
+               "confidence": 0.83934,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9943766666666667,
+         "end": 36392,
+         "speaker": "A",
+         "start": 35580,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 35580,
+               "end": 35944,
+               "confidence": 0.98355,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 35982,
+               "end": 36136,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 36158,
+               "end": 36392,
+               "confidence": 0.99958,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.80962,
+         "end": 37160,
+         "speaker": "C",
+         "start": 36446,
+         "text": "Weed?",
+         "words": [
+            {
+               "text": "Weed?",
+               "start": 36446,
+               "end": 37160,
+               "confidence": 0.80962,
+               "speaker": "C"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9925333333333334,
+         "end": 41400,
+         "speaker": "A",
+         "start": 40540,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 40540,
+               "end": 40904,
+               "confidence": 0.99873,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 40942,
+               "end": 41096,
+               "confidence": 0.98,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 41118,
+               "end": 41400,
+               "confidence": 0.99887,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.69,
+         "end": 42200,
+         "speaker": "B",
+         "start": 41470,
+         "text": "Gray?",
+         "words": [
+            {
+               "text": "Gray?",
+               "start": 41470,
+               "end": 42200,
+               "confidence": 0.69,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.8559366666666666,
+         "end": 46332,
+         "speaker": "A",
+         "start": 45520,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 45520,
+               "end": 45836,
+               "confidence": 0.95822,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 45858,
+               "end": 46044,
+               "confidence": 0.61,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 46082,
+               "end": 46332,
+               "confidence": 0.99959,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.96702,
+         "end": 47180,
+         "speaker": "B",
+         "start": 46386,
+         "text": "Park?",
+         "words": [
+            {
+               "text": "Park?",
+               "start": 46386,
+               "end": 47180,
+               "confidence": 0.96702,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9974733333333333,
+         "end": 51340,
+         "speaker": "A",
+         "start": 50480,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 50480,
+               "end": 50844,
+               "confidence": 0.99349,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 50882,
+               "end": 51036,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 51058,
+               "end": 51340,
+               "confidence": 0.99893,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.85092,
+         "end": 52140,
+         "speaker": "C",
+         "start": 51410,
+         "text": "Weight?",
+         "words": [
+            {
+               "text": "Weight?",
+               "start": 51410,
+               "end": 52140,
+               "confidence": 0.85092,
+               "speaker": "C"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9331466666666666,
+         "end": 56240,
+         "speaker": "A",
+         "start": 55460,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 55460,
+               "end": 55776,
+               "confidence": 0.978,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 55798,
+               "end": 55936,
+               "confidence": 0.83,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 55958,
+               "end": 56240,
+               "confidence": 0.99144,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.80093,
+         "end": 57040,
+         "speaker": "B",
+         "start": 56310,
+         "text": "Fat?",
+         "words": [
+            {
+               "text": "Fat?",
+               "start": 56310,
+               "end": 57040,
+               "confidence": 0.80093,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9904266666666667,
+         "end": 61328,
+         "speaker": "A",
+         "start": 60420,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 60420,
+               "end": 60784,
+               "confidence": 0.9726,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 60822,
+               "end": 60976,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 60998,
+               "end": 61328,
+               "confidence": 0.99868,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.71931,
+         "end": 62240,
+         "speaker": "B",
+         "start": 61414,
+         "text": "Axe?",
+         "words": [
+            {
+               "text": "Axe?",
+               "start": 61414,
+               "end": 62240,
+               "confidence": 0.71931,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9931333333333333,
+         "end": 66160,
+         "speaker": "A",
+         "start": 65300,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 65300,
+               "end": 65664,
+               "confidence": 0.97976,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 65702,
+               "end": 65856,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 65878,
+               "end": 66160,
+               "confidence": 0.99964,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.98403,
+         "end": 66960,
+         "speaker": "B",
+         "start": 66230,
+         "text": "Cage?",
+         "words": [
+            {
+               "text": "Cage?",
+               "start": 66230,
+               "end": 66960,
+               "confidence": 0.98403,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9771966666666666,
+         "end": 71348,
+         "speaker": "A",
+         "start": 70440,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 70440,
+               "end": 70804,
+               "confidence": 0.93339,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 70842,
+               "end": 70996,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 71018,
+               "end": 71348,
+               "confidence": 0.9982,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99565,
+         "end": 72100,
+         "speaker": "B",
+         "start": 71434,
+         "text": "Knife?",
+         "words": [
+            {
+               "text": "Knife?",
+               "start": 71434,
+               "end": 72100,
+               "confidence": 0.99565,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9570266666666667,
+         "end": 76260,
+         "speaker": "A",
+         "start": 75400,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 75400,
+               "end": 75716,
+               "confidence": 0.99158,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 75738,
+               "end": 75924,
+               "confidence": 0.88,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 75962,
+               "end": 76260,
+               "confidence": 0.9995,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99892,
+         "end": 76950,
+         "speaker": "B",
+         "start": 76330,
+         "text": "Turn?",
+         "words": [
+            {
+               "text": "Turn?",
+               "start": 76330,
+               "end": 76950,
+               "confidence": 0.99892,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9931666666666666,
+         "end": 81130,
+         "speaker": "A",
+         "start": 80270,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 80270,
+               "end": 80634,
+               "confidence": 0.97987,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 80672,
+               "end": 80826,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 80848,
+               "end": 81130,
+               "confidence": 0.99963,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.97464,
+         "end": 81930,
+         "speaker": "B",
+         "start": 81200,
+         "text": "Grab?",
+         "words": [
+            {
+               "text": "Grab?",
+               "start": 81200,
+               "end": 81930,
+               "confidence": 0.97464,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.8868,
+         "end": 86078,
+         "speaker": "A",
+         "start": 85250,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 85250,
+               "end": 85566,
+               "confidence": 0.78796,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 85588,
+               "end": 85726,
+               "confidence": 0.9,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 85748,
+               "end": 86078,
+               "confidence": 0.97244,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.96126,
+         "end": 86910,
+         "speaker": "B",
+         "start": 86164,
+         "text": "Rose?",
+         "words": [
+            {
+               "text": "Rose?",
+               "start": 86164,
+               "end": 86910,
+               "confidence": 0.96126,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.90729,
+         "end": 90990,
+         "speaker": "A",
+         "start": 90130,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 90130,
+               "end": 90446,
+               "confidence": 0.75261,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 90468,
+               "end": 90654,
+               "confidence": 0.97,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 90692,
+               "end": 90990,
+               "confidence": 0.99926,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.91307,
+         "end": 91710,
+         "speaker": "C",
+         "start": 91060,
+         "text": "Lip?",
+         "words": [
+            {
+               "text": "Lip?",
+               "start": 91060,
+               "end": 91710,
+               "confidence": 0.91307,
+               "speaker": "C"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9047766666666667,
+         "end": 96098,
+         "speaker": "A",
+         "start": 95190,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 95190,
+               "end": 95554,
+               "confidence": 0.71501,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 95592,
+               "end": 95746,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 95768,
+               "end": 96098,
+               "confidence": 0.99932,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.80921,
+         "end": 96820,
+         "speaker": "C",
+         "start": 96184,
+         "text": "Be?",
+         "words": [
+            {
+               "text": "Be?",
+               "start": 96184,
+               "end": 96820,
+               "confidence": 0.80921,
+               "speaker": "C"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9891933333333333,
+         "end": 100978,
+         "speaker": "A",
+         "start": 100070,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 100070,
+               "end": 100434,
+               "confidence": 0.96863,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 100472,
+               "end": 100626,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 100648,
+               "end": 100978,
+               "confidence": 0.99895,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.98497,
+         "end": 101700,
+         "speaker": "B",
+         "start": 101064,
+         "text": "Bet?",
+         "words": [
+            {
+               "text": "Bet?",
+               "start": 101064,
+               "end": 101700,
+               "confidence": 0.98497,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9521166666666666,
+         "end": 105970,
+         "speaker": "A",
+         "start": 105110,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 105110,
+               "end": 105474,
+               "confidence": 0.85732,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 105512,
+               "end": 105666,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 105688,
+               "end": 105970,
+               "confidence": 0.99903,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99823,
+         "end": 106660,
+         "speaker": "B",
+         "start": 106040,
+         "text": "His.",
+         "words": [
+            {
+               "text": "His.",
+               "start": 106040,
+               "end": 106660,
+               "confidence": 0.99823,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9792333333333333,
+         "end": 110918,
+         "speaker": "A",
+         "start": 110010,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 110010,
+               "end": 110374,
+               "confidence": 0.95608,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 110412,
+               "end": 110566,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 110588,
+               "end": 110918,
+               "confidence": 0.98162,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99362,
+         "end": 111640,
+         "speaker": "B",
+         "start": 111004,
+         "text": "Sing?",
+         "words": [
+            {
+               "text": "Sing?",
+               "start": 111004,
+               "end": 111640,
+               "confidence": 0.99362,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9118333333333334,
+         "end": 115830,
+         "speaker": "A",
+         "start": 114970,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 114970,
+               "end": 115334,
+               "confidence": 0.73587,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 115372,
+               "end": 115526,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 115548,
+               "end": 115830,
+               "confidence": 0.99963,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.66479,
+         "end": 116520,
+         "speaker": "B",
+         "start": 115900,
+         "text": "All.",
+         "words": [
+            {
+               "text": "All.",
+               "start": 115900,
+               "end": 116520,
+               "confidence": 0.66479,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9851766666666667,
+         "end": 120770,
+         "speaker": "A",
+         "start": 119910,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 119910,
+               "end": 120274,
+               "confidence": 0.99946,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 120312,
+               "end": 120466,
+               "confidence": 0.98,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 120488,
+               "end": 120770,
+               "confidence": 0.97607,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99059,
+         "end": 121650,
+         "speaker": "B",
+         "start": 120840,
+         "text": "Bless?",
+         "words": [
+            {
+               "text": "Bless?",
+               "start": 120840,
+               "end": 121650,
+               "confidence": 0.99059,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9013566666666667,
+         "end": 125992,
+         "speaker": "A",
+         "start": 125080,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 125080,
+               "end": 125444,
+               "confidence": 0.84962,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 125482,
+               "end": 125696,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 125738,
+               "end": 125992,
+               "confidence": 0.85445,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.77012,
+         "end": 126760,
+         "speaker": "B",
+         "start": 126046,
+         "text": "Suit?",
+         "words": [
+            {
+               "text": "Suit?",
+               "start": 126046,
+               "end": 126760,
+               "confidence": 0.77012,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9384899999999999,
+         "end": 130860,
+         "speaker": "A",
+         "start": 130000,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 130000,
+               "end": 130364,
+               "confidence": 0.82963,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 130402,
+               "end": 130556,
+               "confidence": 0.99,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 130578,
+               "end": 130860,
+               "confidence": 0.99584,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.88376,
+         "end": 131740,
+         "speaker": "B",
+         "start": 130930,
+         "text": "Splash?",
+         "words": [
+            {
+               "text": "Splash?",
+               "start": 130930,
+               "end": 131740,
+               "confidence": 0.88376,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9933066666666667,
+         "end": 135820,
+         "speaker": "A",
+         "start": 134960,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 134960,
+               "end": 135324,
+               "confidence": 0.98056,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 135362,
+               "end": 135516,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 135538,
+               "end": 135820,
+               "confidence": 0.99936,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99175,
+         "end": 136700,
+         "speaker": "B",
+         "start": 135890,
+         "text": "Path?",
+         "words": [
+            {
+               "text": "Path?",
+               "start": 135890,
+               "end": 136700,
+               "confidence": 0.99175,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9790800000000001,
+         "end": 140720,
+         "speaker": "A",
+         "start": 139860,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 139860,
+               "end": 140224,
+               "confidence": 0.96712,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 140262,
+               "end": 140416,
+               "confidence": 0.98,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 140438,
+               "end": 140720,
+               "confidence": 0.99012,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.7976,
+         "end": 141520,
+         "speaker": "C",
+         "start": 140790,
+         "text": "Feed?",
+         "words": [
+            {
+               "text": "Feed?",
+               "start": 140790,
+               "end": 141520,
+               "confidence": 0.7976,
+               "speaker": "C"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99619,
+         "end": 145680,
+         "speaker": "A",
+         "start": 144820,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 144820,
+               "end": 145184,
+               "confidence": 0.98923,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 145222,
+               "end": 145376,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 145398,
+               "end": 145680,
+               "confidence": 0.99934,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99676,
+         "end": 146370,
+         "speaker": "B",
+         "start": 145750,
+         "text": "Next?",
+         "words": [
+            {
+               "text": "Next?",
+               "start": 145750,
+               "end": 146370,
+               "confidence": 0.99676,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99957,
+         "end": 150640,
+         "speaker": "A",
+         "start": 149780,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 149780,
+               "end": 150144,
+               "confidence": 0.99898,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 150182,
+               "end": 150336,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 150358,
+               "end": 150640,
+               "confidence": 0.99973,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.75182,
+         "end": 151360,
+         "speaker": "B",
+         "start": 150710,
+         "text": "Wreck?",
+         "words": [
+            {
+               "text": "Wreck?",
+               "start": 150710,
+               "end": 151360,
+               "confidence": 0.75182,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9848466666666668,
+         "end": 155570,
+         "speaker": "A",
+         "start": 154790,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 154790,
+               "end": 155154,
+               "confidence": 0.95527,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 155192,
+               "end": 155298,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 155304,
+               "end": 155570,
+               "confidence": 0.99927,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.96788,
+         "end": 156450,
+         "speaker": "C",
+         "start": 155640,
+         "text": "Waste?",
+         "words": [
+            {
+               "text": "Waste?",
+               "start": 155640,
+               "end": 156450,
+               "confidence": 0.96788,
+               "speaker": "C"
+            }
+         ]
+      },
+      {
+         "confidence": 0.7788266666666667,
+         "end": 160550,
+         "speaker": "A",
+         "start": 159690,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 159690,
+               "end": 160054,
+               "confidence": 0.64192,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 160092,
+               "end": 160246,
+               "confidence": 0.88,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 160268,
+               "end": 160550,
+               "confidence": 0.81456,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.69629,
+         "end": 161430,
+         "speaker": "B",
+         "start": 160620,
+         "text": "Crab?",
+         "words": [
+            {
+               "text": "Crab?",
+               "start": 160620,
+               "end": 161430,
+               "confidence": 0.69629,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99885,
+         "end": 165492,
+         "speaker": "A",
+         "start": 164680,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 164680,
+               "end": 165044,
+               "confidence": 0.99695,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 165082,
+               "end": 165236,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 165258,
+               "end": 165492,
+               "confidence": 0.9996,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.96677,
+         "end": 166340,
+         "speaker": "B",
+         "start": 165546,
+         "text": "Peg?",
+         "words": [
+            {
+               "text": "Peg?",
+               "start": 165546,
+               "end": 166340,
+               "confidence": 0.96677,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9996200000000001,
+         "end": 170412,
+         "speaker": "A",
+         "start": 169600,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 169600,
+               "end": 169964,
+               "confidence": 0.99922,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 170002,
+               "end": 170156,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 170178,
+               "end": 170412,
+               "confidence": 0.99964,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.69231,
+         "end": 171340,
+         "speaker": "B",
+         "start": 170466,
+         "text": "Freeze.",
+         "words": [
+            {
+               "text": "Freeze.",
+               "start": 170466,
+               "end": 171340,
+               "confidence": 0.69231,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9905333333333334,
+         "end": 175462,
+         "speaker": "A",
+         "start": 174650,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 174650,
+               "end": 175014,
+               "confidence": 0.97191,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 175052,
+               "end": 175206,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 175228,
+               "end": 175462,
+               "confidence": 0.99969,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9684,
+         "end": 176230,
+         "speaker": "C",
+         "start": 175516,
+         "text": "Race?",
+         "words": [
+            {
+               "text": "Race?",
+               "start": 175516,
+               "end": 176230,
+               "confidence": 0.9684,
+               "speaker": "C"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9993566666666668,
+         "end": 180382,
+         "speaker": "A",
+         "start": 179570,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 179570,
+               "end": 179934,
+               "confidence": 0.99839,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 179972,
+               "end": 180126,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 180148,
+               "end": 180382,
+               "confidence": 0.99968,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.37926,
+         "end": 181150,
+         "speaker": "B",
+         "start": 180436,
+         "text": "Bud?",
+         "words": [
+            {
+               "text": "Bud?",
+               "start": 180436,
+               "end": 181150,
+               "confidence": 0.37926,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9709133333333333,
+         "end": 185360,
+         "speaker": "A",
+         "start": 184500,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 184500,
+               "end": 184864,
+               "confidence": 0.99917,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 184902,
+               "end": 185056,
+               "confidence": 0.92,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 185078,
+               "end": 185360,
+               "confidence": 0.99357,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.96088,
+         "end": 186320,
+         "speaker": "B",
+         "start": 185430,
+         "text": "Darn?",
+         "words": [
+            {
+               "text": "Darn?",
+               "start": 185430,
+               "end": 186320,
+               "confidence": 0.96088,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9810500000000001,
+         "end": 190322,
+         "speaker": "A",
+         "start": 189590,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 189590,
+               "end": 189906,
+               "confidence": 0.94336,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 189928,
+               "end": 190066,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 190088,
+               "end": 190322,
+               "confidence": 0.99979,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.57123,
+         "end": 190980,
+         "speaker": "B",
+         "start": 190376,
+         "text": "Fair?",
+         "words": [
+            {
+               "text": "Fair?",
+               "start": 190376,
+               "end": 190980,
+               "confidence": 0.57123,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9914,
+         "end": 195320,
+         "speaker": "A",
+         "start": 194460,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 194460,
+               "end": 194824,
+               "confidence": 0.99149,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 194862,
+               "end": 195016,
+               "confidence": 0.99,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 195038,
+               "end": 195320,
+               "confidence": 0.99271,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.77269,
+         "end": 196200,
+         "speaker": "B",
+         "start": 195390,
+         "text": "Sack?",
+         "words": [
+            {
+               "text": "Sack?",
+               "start": 195390,
+               "end": 196200,
+               "confidence": 0.77269,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9931800000000001,
+         "end": 200310,
+         "speaker": "A",
+         "start": 199530,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 199530,
+               "end": 199846,
+               "confidence": 0.99203,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 199868,
+               "end": 200006,
+               "confidence": 0.99,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 200028,
+               "end": 200310,
+               "confidence": 0.99751,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.94148,
+         "end": 201000,
+         "speaker": "B",
+         "start": 200380,
+         "text": "Got?",
+         "words": [
+            {
+               "text": "Got?",
+               "start": 200380,
+               "end": 201000,
+               "confidence": 0.94148,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9262966666666667,
+         "end": 205228,
+         "speaker": "A",
+         "start": 204320,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 204320,
+               "end": 204684,
+               "confidence": 0.90497,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 204722,
+               "end": 204876,
+               "confidence": 0.99,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 204898,
+               "end": 205228,
+               "confidence": 0.88392,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.96591,
+         "end": 205950,
+         "speaker": "B",
+         "start": 205314,
+         "text": "As?",
+         "words": [
+            {
+               "text": "As?",
+               "start": 205314,
+               "end": 205950,
+               "confidence": 0.96591,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.8669533333333334,
+         "end": 210200,
+         "speaker": "A",
+         "start": 209420,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 209420,
+               "end": 209736,
+               "confidence": 0.96259,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 209758,
+               "end": 209896,
+               "confidence": 0.78,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 209918,
+               "end": 210200,
+               "confidence": 0.85827,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.6106,
+         "end": 211080,
+         "speaker": "B",
+         "start": 210270,
+         "text": "Grew?",
+         "words": [
+            {
+               "text": "Grew?",
+               "start": 210270,
+               "end": 211080,
+               "confidence": 0.6106,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9996866666666667,
+         "end": 215220,
+         "speaker": "A",
+         "start": 214360,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 214360,
+               "end": 214724,
+               "confidence": 0.99931,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 214762,
+               "end": 214916,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 214938,
+               "end": 215220,
+               "confidence": 0.99975,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.58942,
+         "end": 215940,
+         "speaker": "B",
+         "start": 215290,
+         "text": "Knee?",
+         "words": [
+            {
+               "text": "Knee?",
+               "start": 215290,
+               "end": 215940,
+               "confidence": 0.58942,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9996933333333334,
+         "end": 220140,
+         "speaker": "A",
+         "start": 219280,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 219280,
+               "end": 219644,
+               "confidence": 0.99934,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 219682,
+               "end": 219836,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 219858,
+               "end": 220140,
+               "confidence": 0.99974,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99888,
+         "end": 220940,
+         "speaker": "B",
+         "start": 220210,
+         "text": "Fresh?",
+         "words": [
+            {
+               "text": "Fresh?",
+               "start": 220210,
+               "end": 220940,
+               "confidence": 0.99888,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9996833333333334,
+         "end": 225152,
+         "speaker": "A",
+         "start": 224340,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 224340,
+               "end": 224704,
+               "confidence": 0.99921,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 224742,
+               "end": 224896,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 224918,
+               "end": 225152,
+               "confidence": 0.99984,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.86133,
+         "end": 226000,
+         "speaker": "B",
+         "start": 225206,
+         "text": "Tray?",
+         "words": [
+            {
+               "text": "Tray?",
+               "start": 225206,
+               "end": 226000,
+               "confidence": 0.86133,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9942933333333333,
+         "end": 230030,
+         "speaker": "A",
+         "start": 229170,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 229170,
+               "end": 229534,
+               "confidence": 0.99323,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 229572,
+               "end": 229726,
+               "confidence": 0.99,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 229748,
+               "end": 230030,
+               "confidence": 0.99965,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9869,
+         "end": 230720,
+         "speaker": "B",
+         "start": 230100,
+         "text": "Cat?",
+         "words": [
+            {
+               "text": "Cat?",
+               "start": 230100,
+               "end": 230720,
+               "confidence": 0.9869,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9797066666666666,
+         "end": 235080,
+         "speaker": "A",
+         "start": 234220,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 234220,
+               "end": 234584,
+               "confidence": 0.99336,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 234622,
+               "end": 234776,
+               "confidence": 0.95,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 234798,
+               "end": 235080,
+               "confidence": 0.99576,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9429,
+         "end": 235770,
+         "speaker": "B",
+         "start": 235150,
+         "text": "On?",
+         "words": [
+            {
+               "text": "On?",
+               "start": 235150,
+               "end": 235770,
+               "confidence": 0.9429,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9996466666666667,
+         "end": 239942,
+         "speaker": "A",
+         "start": 239130,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 239130,
+               "end": 239494,
+               "confidence": 0.99914,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 239532,
+               "end": 239686,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 239708,
+               "end": 239942,
+               "confidence": 0.9998,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.73781,
+         "end": 240600,
+         "speaker": "B",
+         "start": 239996,
+         "text": "Camp?",
+         "words": [
+            {
+               "text": "Camp?",
+               "start": 239996,
+               "end": 240600,
+               "confidence": 0.73781,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.8304266666666665,
+         "end": 245030,
+         "speaker": "A",
+         "start": 244250,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 244250,
+               "end": 244614,
+               "confidence": 0.98378,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 244652,
+               "end": 244758,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 244764,
+               "end": 245030,
+               "confidence": 0.5075,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.97989,
+         "end": 245720,
+         "speaker": "B",
+         "start": 245100,
+         "text": "Find?",
+         "words": [
+            {
+               "text": "Find?",
+               "start": 245100,
+               "end": 245720,
+               "confidence": 0.97989,
+               "speaker": "B"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9914633333333334,
+         "end": 249912,
+         "speaker": "A",
+         "start": 249100,
+         "text": "Say the word.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 249100,
+               "end": 249464,
+               "confidence": 0.97501,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 249502,
+               "end": 249656,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 249678,
+               "end": 249912,
+               "confidence": 0.99938,
+               "speaker": "A"
+            }
+         ]
+      },
+      {
+         "confidence": 0.99938,
+         "end": 250570,
+         "speaker": "C",
+         "start": 249966,
+         "text": "Yes.",
+         "words": [
+            {
+               "text": "Yes.",
+               "start": 249966,
+               "end": 250570,
+               "confidence": 0.99938,
+               "speaker": "C"
+            }
+         ]
+      },
+      {
+         "confidence": 0.9008174999999999,
+         "end": 255220,
+         "speaker": "A",
+         "start": 254140,
+         "text": "Say the word. Loud.",
+         "words": [
+            {
+               "text": "Say",
+               "start": 254140,
+               "end": 254504,
+               "confidence": 0.99935,
+               "speaker": "A"
+            },
+            {
+               "text": "the",
+               "start": 254542,
+               "end": 254648,
+               "confidence": 1.0,
+               "speaker": "A"
+            },
+            {
+               "text": "word.",
+               "start": 254654,
+               "end": 254920,
+               "confidence": 0.60448,
+               "speaker": "A"
+            },
+            {
+               "text": "Loud.",
+               "start": 254990,
+               "end": 255220,
+               "confidence": 0.99944,
+               "speaker": "B"
+            }
+         ]
+      }
+   ],
+   "text": "Autotech. PBK. List. Two. Form a. Say the word. Laugh. Say the word. Falls? Say the word. Paste? Say the word. Plough? Say the word. Page? Say the word. Weed? Say the word. Gray? Say the word. Park? Say the word. Weight? Say the word. Fat? Say the word. Axe? Say the word. Cage? Say the word. Knife? Say the word. Turn? Say the word. Grab? Say the word. Rose? Say the word. Lip? Say the word. Be? Say the word. Bet? Say the word. His. Say the word. Sing? Say the word. All. Say the word. Bless? Say the word. Suit? Say the word. Splash? Say the word. Path? Say the word. Feed? Say the word. Next? Say the word. Wreck? Say the word. Waste? Say the word. Crab? Say the word. Peg? Say the word. Freeze. Say the word. Race? Say the word. Bud? Say the word. Darn? Say the word. Fair? Say the word. Sack? Say the word. Got? Say the word. As? Say the word. Grew? Say the word. Knee? Say the word. Fresh? Say the word. Tray? Say the word. Cat? Say the word. On? Say the word. Camp? Say the word. Find? Say the word. Yes. Say the word. Loud.",
+   "words": [
+      {
+         "text": "Autotech.",
+         "start": 570,
+         "end": 1178,
+         "confidence": 0.51256,
+         "speaker": "A"
+      },
+      {
+         "text": "PBK.",
+         "start": 1274,
+         "end": 2026,
+         "confidence": 0.83729,
+         "speaker": "A"
+      },
+      {
+         "text": "List.",
+         "start": 2138,
+         "end": 2462,
+         "confidence": 0.95786,
+         "speaker": "B"
+      },
+      {
+         "text": "Two.",
+         "start": 2516,
+         "end": 2926,
+         "confidence": 0.68,
+         "speaker": "B"
+      },
+      {
+         "text": "Form",
+         "start": 3028,
+         "end": 3438,
+         "confidence": 0.68218,
+         "speaker": "B"
+      },
+      {
+         "text": "a.",
+         "start": 3524,
+         "end": 4160,
+         "confidence": 0.91,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 11220,
+         "end": 11584,
+         "confidence": 0.99128,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 11622,
+         "end": 11776,
+         "confidence": 0.99,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 11798,
+         "end": 12032,
+         "confidence": 0.99578,
+         "speaker": "A"
+      },
+      {
+         "text": "Laugh.",
+         "start": 12086,
+         "end": 12800,
+         "confidence": 0.991,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 15540,
+         "end": 15904,
+         "confidence": 0.98503,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 15942,
+         "end": 16096,
+         "confidence": 0.99,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 16118,
+         "end": 16400,
+         "confidence": 0.99787,
+         "speaker": "A"
+      },
+      {
+         "text": "Falls?",
+         "start": 16470,
+         "end": 17360,
+         "confidence": 0.93645,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 20740,
+         "end": 21104,
+         "confidence": 0.981,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 21142,
+         "end": 21296,
+         "confidence": 0.99,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 21318,
+         "end": 21600,
+         "confidence": 0.99782,
+         "speaker": "A"
+      },
+      {
+         "text": "Paste?",
+         "start": 21670,
+         "end": 22480,
+         "confidence": 0.96459,
+         "speaker": "C"
+      },
+      {
+         "text": "Say",
+         "start": 25700,
+         "end": 26064,
+         "confidence": 0.9707,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 26102,
+         "end": 26208,
+         "confidence": 0.99,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 26214,
+         "end": 26480,
+         "confidence": 0.99561,
+         "speaker": "A"
+      },
+      {
+         "text": "Plough?",
+         "start": 26550,
+         "end": 27280,
+         "confidence": 0.63343,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 30620,
+         "end": 30984,
+         "confidence": 0.96833,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 31022,
+         "end": 31176,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 31198,
+         "end": 31432,
+         "confidence": 0.99961,
+         "speaker": "A"
+      },
+      {
+         "text": "Page?",
+         "start": 31486,
+         "end": 32090,
+         "confidence": 0.83934,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 35580,
+         "end": 35944,
+         "confidence": 0.98355,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 35982,
+         "end": 36136,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 36158,
+         "end": 36392,
+         "confidence": 0.99958,
+         "speaker": "A"
+      },
+      {
+         "text": "Weed?",
+         "start": 36446,
+         "end": 37160,
+         "confidence": 0.80962,
+         "speaker": "C"
+      },
+      {
+         "text": "Say",
+         "start": 40540,
+         "end": 40904,
+         "confidence": 0.99873,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 40942,
+         "end": 41096,
+         "confidence": 0.98,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 41118,
+         "end": 41400,
+         "confidence": 0.99887,
+         "speaker": "A"
+      },
+      {
+         "text": "Gray?",
+         "start": 41470,
+         "end": 42200,
+         "confidence": 0.69,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 45520,
+         "end": 45836,
+         "confidence": 0.95822,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 45858,
+         "end": 46044,
+         "confidence": 0.61,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 46082,
+         "end": 46332,
+         "confidence": 0.99959,
+         "speaker": "A"
+      },
+      {
+         "text": "Park?",
+         "start": 46386,
+         "end": 47180,
+         "confidence": 0.96702,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 50480,
+         "end": 50844,
+         "confidence": 0.99349,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 50882,
+         "end": 51036,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 51058,
+         "end": 51340,
+         "confidence": 0.99893,
+         "speaker": "A"
+      },
+      {
+         "text": "Weight?",
+         "start": 51410,
+         "end": 52140,
+         "confidence": 0.85092,
+         "speaker": "C"
+      },
+      {
+         "text": "Say",
+         "start": 55460,
+         "end": 55776,
+         "confidence": 0.978,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 55798,
+         "end": 55936,
+         "confidence": 0.83,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 55958,
+         "end": 56240,
+         "confidence": 0.99144,
+         "speaker": "A"
+      },
+      {
+         "text": "Fat?",
+         "start": 56310,
+         "end": 57040,
+         "confidence": 0.80093,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 60420,
+         "end": 60784,
+         "confidence": 0.9726,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 60822,
+         "end": 60976,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 60998,
+         "end": 61328,
+         "confidence": 0.99868,
+         "speaker": "A"
+      },
+      {
+         "text": "Axe?",
+         "start": 61414,
+         "end": 62240,
+         "confidence": 0.71931,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 65300,
+         "end": 65664,
+         "confidence": 0.97976,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 65702,
+         "end": 65856,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 65878,
+         "end": 66160,
+         "confidence": 0.99964,
+         "speaker": "A"
+      },
+      {
+         "text": "Cage?",
+         "start": 66230,
+         "end": 66960,
+         "confidence": 0.98403,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 70440,
+         "end": 70804,
+         "confidence": 0.93339,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 70842,
+         "end": 70996,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 71018,
+         "end": 71348,
+         "confidence": 0.9982,
+         "speaker": "A"
+      },
+      {
+         "text": "Knife?",
+         "start": 71434,
+         "end": 72100,
+         "confidence": 0.99565,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 75400,
+         "end": 75716,
+         "confidence": 0.99158,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 75738,
+         "end": 75924,
+         "confidence": 0.88,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 75962,
+         "end": 76260,
+         "confidence": 0.9995,
+         "speaker": "A"
+      },
+      {
+         "text": "Turn?",
+         "start": 76330,
+         "end": 76950,
+         "confidence": 0.99892,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 80270,
+         "end": 80634,
+         "confidence": 0.97987,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 80672,
+         "end": 80826,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 80848,
+         "end": 81130,
+         "confidence": 0.99963,
+         "speaker": "A"
+      },
+      {
+         "text": "Grab?",
+         "start": 81200,
+         "end": 81930,
+         "confidence": 0.97464,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 85250,
+         "end": 85566,
+         "confidence": 0.78796,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 85588,
+         "end": 85726,
+         "confidence": 0.9,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 85748,
+         "end": 86078,
+         "confidence": 0.97244,
+         "speaker": "A"
+      },
+      {
+         "text": "Rose?",
+         "start": 86164,
+         "end": 86910,
+         "confidence": 0.96126,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 90130,
+         "end": 90446,
+         "confidence": 0.75261,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 90468,
+         "end": 90654,
+         "confidence": 0.97,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 90692,
+         "end": 90990,
+         "confidence": 0.99926,
+         "speaker": "A"
+      },
+      {
+         "text": "Lip?",
+         "start": 91060,
+         "end": 91710,
+         "confidence": 0.91307,
+         "speaker": "C"
+      },
+      {
+         "text": "Say",
+         "start": 95190,
+         "end": 95554,
+         "confidence": 0.71501,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 95592,
+         "end": 95746,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 95768,
+         "end": 96098,
+         "confidence": 0.99932,
+         "speaker": "A"
+      },
+      {
+         "text": "Be?",
+         "start": 96184,
+         "end": 96820,
+         "confidence": 0.80921,
+         "speaker": "C"
+      },
+      {
+         "text": "Say",
+         "start": 100070,
+         "end": 100434,
+         "confidence": 0.96863,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 100472,
+         "end": 100626,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 100648,
+         "end": 100978,
+         "confidence": 0.99895,
+         "speaker": "A"
+      },
+      {
+         "text": "Bet?",
+         "start": 101064,
+         "end": 101700,
+         "confidence": 0.98497,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 105110,
+         "end": 105474,
+         "confidence": 0.85732,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 105512,
+         "end": 105666,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 105688,
+         "end": 105970,
+         "confidence": 0.99903,
+         "speaker": "A"
+      },
+      {
+         "text": "His.",
+         "start": 106040,
+         "end": 106660,
+         "confidence": 0.99823,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 110010,
+         "end": 110374,
+         "confidence": 0.95608,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 110412,
+         "end": 110566,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 110588,
+         "end": 110918,
+         "confidence": 0.98162,
+         "speaker": "A"
+      },
+      {
+         "text": "Sing?",
+         "start": 111004,
+         "end": 111640,
+         "confidence": 0.99362,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 114970,
+         "end": 115334,
+         "confidence": 0.73587,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 115372,
+         "end": 115526,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 115548,
+         "end": 115830,
+         "confidence": 0.99963,
+         "speaker": "A"
+      },
+      {
+         "text": "All.",
+         "start": 115900,
+         "end": 116520,
+         "confidence": 0.66479,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 119910,
+         "end": 120274,
+         "confidence": 0.99946,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 120312,
+         "end": 120466,
+         "confidence": 0.98,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 120488,
+         "end": 120770,
+         "confidence": 0.97607,
+         "speaker": "A"
+      },
+      {
+         "text": "Bless?",
+         "start": 120840,
+         "end": 121650,
+         "confidence": 0.99059,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 125080,
+         "end": 125444,
+         "confidence": 0.84962,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 125482,
+         "end": 125696,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 125738,
+         "end": 125992,
+         "confidence": 0.85445,
+         "speaker": "A"
+      },
+      {
+         "text": "Suit?",
+         "start": 126046,
+         "end": 126760,
+         "confidence": 0.77012,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 130000,
+         "end": 130364,
+         "confidence": 0.82963,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 130402,
+         "end": 130556,
+         "confidence": 0.99,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 130578,
+         "end": 130860,
+         "confidence": 0.99584,
+         "speaker": "A"
+      },
+      {
+         "text": "Splash?",
+         "start": 130930,
+         "end": 131740,
+         "confidence": 0.88376,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 134960,
+         "end": 135324,
+         "confidence": 0.98056,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 135362,
+         "end": 135516,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 135538,
+         "end": 135820,
+         "confidence": 0.99936,
+         "speaker": "A"
+      },
+      {
+         "text": "Path?",
+         "start": 135890,
+         "end": 136700,
+         "confidence": 0.99175,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 139860,
+         "end": 140224,
+         "confidence": 0.96712,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 140262,
+         "end": 140416,
+         "confidence": 0.98,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 140438,
+         "end": 140720,
+         "confidence": 0.99012,
+         "speaker": "A"
+      },
+      {
+         "text": "Feed?",
+         "start": 140790,
+         "end": 141520,
+         "confidence": 0.7976,
+         "speaker": "C"
+      },
+      {
+         "text": "Say",
+         "start": 144820,
+         "end": 145184,
+         "confidence": 0.98923,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 145222,
+         "end": 145376,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 145398,
+         "end": 145680,
+         "confidence": 0.99934,
+         "speaker": "A"
+      },
+      {
+         "text": "Next?",
+         "start": 145750,
+         "end": 146370,
+         "confidence": 0.99676,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 149780,
+         "end": 150144,
+         "confidence": 0.99898,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 150182,
+         "end": 150336,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 150358,
+         "end": 150640,
+         "confidence": 0.99973,
+         "speaker": "A"
+      },
+      {
+         "text": "Wreck?",
+         "start": 150710,
+         "end": 151360,
+         "confidence": 0.75182,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 154790,
+         "end": 155154,
+         "confidence": 0.95527,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 155192,
+         "end": 155298,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 155304,
+         "end": 155570,
+         "confidence": 0.99927,
+         "speaker": "A"
+      },
+      {
+         "text": "Waste?",
+         "start": 155640,
+         "end": 156450,
+         "confidence": 0.96788,
+         "speaker": "C"
+      },
+      {
+         "text": "Say",
+         "start": 159690,
+         "end": 160054,
+         "confidence": 0.64192,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 160092,
+         "end": 160246,
+         "confidence": 0.88,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 160268,
+         "end": 160550,
+         "confidence": 0.81456,
+         "speaker": "A"
+      },
+      {
+         "text": "Crab?",
+         "start": 160620,
+         "end": 161430,
+         "confidence": 0.69629,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 164680,
+         "end": 165044,
+         "confidence": 0.99695,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 165082,
+         "end": 165236,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 165258,
+         "end": 165492,
+         "confidence": 0.9996,
+         "speaker": "A"
+      },
+      {
+         "text": "Peg?",
+         "start": 165546,
+         "end": 166340,
+         "confidence": 0.96677,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 169600,
+         "end": 169964,
+         "confidence": 0.99922,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 170002,
+         "end": 170156,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 170178,
+         "end": 170412,
+         "confidence": 0.99964,
+         "speaker": "A"
+      },
+      {
+         "text": "Freeze.",
+         "start": 170466,
+         "end": 171340,
+         "confidence": 0.69231,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 174650,
+         "end": 175014,
+         "confidence": 0.97191,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 175052,
+         "end": 175206,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 175228,
+         "end": 175462,
+         "confidence": 0.99969,
+         "speaker": "A"
+      },
+      {
+         "text": "Race?",
+         "start": 175516,
+         "end": 176230,
+         "confidence": 0.9684,
+         "speaker": "C"
+      },
+      {
+         "text": "Say",
+         "start": 179570,
+         "end": 179934,
+         "confidence": 0.99839,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 179972,
+         "end": 180126,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 180148,
+         "end": 180382,
+         "confidence": 0.99968,
+         "speaker": "A"
+      },
+      {
+         "text": "Bud?",
+         "start": 180436,
+         "end": 181150,
+         "confidence": 0.37926,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 184500,
+         "end": 184864,
+         "confidence": 0.99917,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 184902,
+         "end": 185056,
+         "confidence": 0.92,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 185078,
+         "end": 185360,
+         "confidence": 0.99357,
+         "speaker": "A"
+      },
+      {
+         "text": "Darn?",
+         "start": 185430,
+         "end": 186320,
+         "confidence": 0.96088,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 189590,
+         "end": 189906,
+         "confidence": 0.94336,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 189928,
+         "end": 190066,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 190088,
+         "end": 190322,
+         "confidence": 0.99979,
+         "speaker": "A"
+      },
+      {
+         "text": "Fair?",
+         "start": 190376,
+         "end": 190980,
+         "confidence": 0.57123,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 194460,
+         "end": 194824,
+         "confidence": 0.99149,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 194862,
+         "end": 195016,
+         "confidence": 0.99,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 195038,
+         "end": 195320,
+         "confidence": 0.99271,
+         "speaker": "A"
+      },
+      {
+         "text": "Sack?",
+         "start": 195390,
+         "end": 196200,
+         "confidence": 0.77269,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 199530,
+         "end": 199846,
+         "confidence": 0.99203,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 199868,
+         "end": 200006,
+         "confidence": 0.99,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 200028,
+         "end": 200310,
+         "confidence": 0.99751,
+         "speaker": "A"
+      },
+      {
+         "text": "Got?",
+         "start": 200380,
+         "end": 201000,
+         "confidence": 0.94148,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 204320,
+         "end": 204684,
+         "confidence": 0.90497,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 204722,
+         "end": 204876,
+         "confidence": 0.99,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 204898,
+         "end": 205228,
+         "confidence": 0.88392,
+         "speaker": "A"
+      },
+      {
+         "text": "As?",
+         "start": 205314,
+         "end": 205950,
+         "confidence": 0.96591,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 209420,
+         "end": 209736,
+         "confidence": 0.96259,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 209758,
+         "end": 209896,
+         "confidence": 0.78,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 209918,
+         "end": 210200,
+         "confidence": 0.85827,
+         "speaker": "A"
+      },
+      {
+         "text": "Grew?",
+         "start": 210270,
+         "end": 211080,
+         "confidence": 0.6106,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 214360,
+         "end": 214724,
+         "confidence": 0.99931,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 214762,
+         "end": 214916,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 214938,
+         "end": 215220,
+         "confidence": 0.99975,
+         "speaker": "A"
+      },
+      {
+         "text": "Knee?",
+         "start": 215290,
+         "end": 215940,
+         "confidence": 0.58942,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 219280,
+         "end": 219644,
+         "confidence": 0.99934,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 219682,
+         "end": 219836,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 219858,
+         "end": 220140,
+         "confidence": 0.99974,
+         "speaker": "A"
+      },
+      {
+         "text": "Fresh?",
+         "start": 220210,
+         "end": 220940,
+         "confidence": 0.99888,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 224340,
+         "end": 224704,
+         "confidence": 0.99921,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 224742,
+         "end": 224896,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 224918,
+         "end": 225152,
+         "confidence": 0.99984,
+         "speaker": "A"
+      },
+      {
+         "text": "Tray?",
+         "start": 225206,
+         "end": 226000,
+         "confidence": 0.86133,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 229170,
+         "end": 229534,
+         "confidence": 0.99323,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 229572,
+         "end": 229726,
+         "confidence": 0.99,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 229748,
+         "end": 230030,
+         "confidence": 0.99965,
+         "speaker": "A"
+      },
+      {
+         "text": "Cat?",
+         "start": 230100,
+         "end": 230720,
+         "confidence": 0.9869,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 234220,
+         "end": 234584,
+         "confidence": 0.99336,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 234622,
+         "end": 234776,
+         "confidence": 0.95,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 234798,
+         "end": 235080,
+         "confidence": 0.99576,
+         "speaker": "A"
+      },
+      {
+         "text": "On?",
+         "start": 235150,
+         "end": 235770,
+         "confidence": 0.9429,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 239130,
+         "end": 239494,
+         "confidence": 0.99914,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 239532,
+         "end": 239686,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 239708,
+         "end": 239942,
+         "confidence": 0.9998,
+         "speaker": "A"
+      },
+      {
+         "text": "Camp?",
+         "start": 239996,
+         "end": 240600,
+         "confidence": 0.73781,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 244250,
+         "end": 244614,
+         "confidence": 0.98378,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 244652,
+         "end": 244758,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 244764,
+         "end": 245030,
+         "confidence": 0.5075,
+         "speaker": "A"
+      },
+      {
+         "text": "Find?",
+         "start": 245100,
+         "end": 245720,
+         "confidence": 0.97989,
+         "speaker": "B"
+      },
+      {
+         "text": "Say",
+         "start": 249100,
+         "end": 249464,
+         "confidence": 0.97501,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 249502,
+         "end": 249656,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 249678,
+         "end": 249912,
+         "confidence": 0.99938,
+         "speaker": "A"
+      },
+      {
+         "text": "Yes.",
+         "start": 249966,
+         "end": 250570,
+         "confidence": 0.99938,
+         "speaker": "C"
+      },
+      {
+         "text": "Say",
+         "start": 254140,
+         "end": 254504,
+         "confidence": 0.99935,
+         "speaker": "A"
+      },
+      {
+         "text": "the",
+         "start": 254542,
+         "end": 254648,
+         "confidence": 1.0,
+         "speaker": "A"
+      },
+      {
+         "text": "word.",
+         "start": 254654,
+         "end": 254920,
+         "confidence": 0.60448,
+         "speaker": "A"
+      },
+      {
+         "text": "Loud.",
+         "start": 254990,
+         "end": 255220,
+         "confidence": 0.99944,
+         "speaker": "B"
+      }
+   ],
+   "run-time": 33.31
+}

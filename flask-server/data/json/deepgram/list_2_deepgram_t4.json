@@ -1,0 +1,1498 @@
+{
+   "metadata": {
+      "transaction_key": "deprecated",
+      "request_id": "822396c8-c463-469d-8f11-eee70f9a289a",
+      "sha256": "cdf2a1a7afc0910b7c353e9a048148512085a3714b8d29ca32001372ece95d52",
+      "created": "2023-01-25T17:17:09.530Z",
+      "duration": 263.82498,
+      "channels": 1,
+      "models": [
+         "c12089d0-0766-4ca0-9511-98fd2e443ebd"
+      ],
+      "model_info": {
+         "c12089d0-0766-4ca0-9511-98fd2e443ebd": {
+            "name": "general",
+            "version": "2022-01-18.1",
+            "tier": "base"
+         }
+      }
+   },
+   "results": {
+      "channels": [
+         {
+            "alternatives": [
+               {
+                  "transcript": "Auto tech, Bb k fifty, list one, form a. Say the word, please. Say the word great. Say the word sled. Say the word pants. Say the word rat. Say the word bad. Say the word pinch. Say the word such. Say the word bus. Say the word need. Say the word ways. Say the word five Say the word mouth. Say the word reg. Say the word put. Say the word fed. Say the word fold. Say the word hunt. Say the word no. Say the word box. Say the word r say the word teach. Say the word slice. Say the word is. Say the word tree. Say the word smile. Say the word bath. Say the word slip. Say the word ride. Say the word and. Say the word pink. Say the word thank. Say the word take. Say the word cart. Say the word sc. Say the word lay. Say the word class. Say the word me. Say the word dish. Say the word nick. Say the word beef. Say the word few. Say the word use. Say the word did. Say the word bit. Say the word pond. Say the word hot. Say the word on. Say the word bead. Say the word shop.",
+                  "confidence": 0.9925194,
+                  "words": [
+                     {
+                        "word": "auto",
+                        "start": 0.8178307,
+                        "end": 1.0970899,
+                        "confidence": 0.7696175,
+                        "punctuated_word": "Auto"
+                     },
+                     {
+                        "word": "tech",
+                        "start": 1.0970899,
+                        "end": 1.5970899,
+                        "confidence": 0.21678595,
+                        "punctuated_word": "tech,"
+                     },
+                     {
+                        "word": "bb",
+                        "start": 2.5332804,
+                        "end": 2.9322221,
+                        "confidence": 0.77186555,
+                        "punctuated_word": "Bb"
+                     },
+                     {
+                        "word": "k",
+                        "start": 2.9322221,
+                        "end": 3.1715872,
+                        "confidence": 0.6599678,
+                        "punctuated_word": "k"
+                     },
+                     {
+                        "word": "fifty",
+                        "start": 3.1715872,
+                        "end": 3.5306349,
+                        "confidence": 0.9514627,
+                        "punctuated_word": "fifty,"
+                     },
+                     {
+                        "word": "list",
+                        "start": 5.126402,
+                        "end": 5.445555,
+                        "confidence": 0.9641982,
+                        "punctuated_word": "list"
+                     },
+                     {
+                        "word": "one",
+                        "start": 5.445555,
+                        "end": 5.605132,
+                        "confidence": 0.9703633,
+                        "punctuated_word": "one,"
+                     },
+                     {
+                        "word": "form",
+                        "start": 6.3232274,
+                        "end": 6.722169,
+                        "confidence": 0.9863595,
+                        "punctuated_word": "form"
+                     },
+                     {
+                        "word": "a",
+                        "start": 6.722169,
+                        "end": 7.001428,
+                        "confidence": 0.9546701,
+                        "punctuated_word": "a."
+                     },
+                     {
+                        "word": "say",
+                        "start": 11.130655,
+                        "end": 11.250509,
+                        "confidence": 0.99923897,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 11.250509,
+                        "end": 11.450267,
+                        "confidence": 0.9987112,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 11.450267,
+                        "end": 11.610073,
+                        "confidence": 0.9993124,
+                        "punctuated_word": "word,"
+                     },
+                     {
+                        "word": "please",
+                        "start": 11.929684,
+                        "end": 12.249296,
+                        "confidence": 0.99857104,
+                        "punctuated_word": "please."
+                     },
+                     {
+                        "word": "say",
+                        "start": 16.179998,
+                        "end": 16.34,
+                        "confidence": 0.99954057,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 16.34,
+                        "end": 16.5,
+                        "confidence": 0.98406774,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 16.5,
+                        "end": 17.0,
+                        "confidence": 0.99940944,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "great",
+                        "start": 17.019999,
+                        "end": 17.519999,
+                        "confidence": 0.99375993,
+                        "punctuated_word": "great."
+                     },
+                     {
+                        "word": "say",
+                        "start": 21.259998,
+                        "end": 21.419998,
+                        "confidence": 0.99952066,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 21.419998,
+                        "end": 21.579998,
+                        "confidence": 0.9984195,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 21.579998,
+                        "end": 22.079998,
+                        "confidence": 0.66493046,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "sled",
+                        "start": 22.179998,
+                        "end": 22.38,
+                        "confidence": 0.9591708,
+                        "punctuated_word": "sled."
+                     },
+                     {
+                        "word": "say",
+                        "start": 26.114998,
+                        "end": 26.274998,
+                        "confidence": 0.99963415,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 26.274998,
+                        "end": 26.434998,
+                        "confidence": 0.9969733,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 26.434998,
+                        "end": 26.914999,
+                        "confidence": 0.99935263,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "pants",
+                        "start": 26.914999,
+                        "end": 27.234999,
+                        "confidence": 0.9925194,
+                        "punctuated_word": "pants."
+                     },
+                     {
+                        "word": "say",
+                        "start": 31.168072,
+                        "end": 31.327654,
+                        "confidence": 0.9994948,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 31.327654,
+                        "end": 31.487238,
+                        "confidence": 0.99785125,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 31.487238,
+                        "end": 31.987238,
+                        "confidence": 0.9996557,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "rat",
+                        "start": 32.005882,
+                        "end": 32.205364,
+                        "confidence": 0.9233367,
+                        "punctuated_word": "rat."
+                     },
+                     {
+                        "word": "say",
+                        "start": 36.115154,
+                        "end": 36.27474,
+                        "confidence": 0.99912363,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 36.27474,
+                        "end": 36.434322,
+                        "confidence": 0.98192924,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 36.434322,
+                        "end": 36.873177,
+                        "confidence": 0.99904877,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "bad",
+                        "start": 36.873177,
+                        "end": 37.152447,
+                        "confidence": 0.99443084,
+                        "punctuated_word": "bad."
+                     },
+                     {
+                        "word": "say",
+                        "start": 41.08097,
+                        "end": 41.2807,
+                        "confidence": 0.98907137,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 41.2807,
+                        "end": 41.440487,
+                        "confidence": 0.9952802,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 41.440487,
+                        "end": 41.87989,
+                        "confidence": 0.996396,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "pinch",
+                        "start": 41.87989,
+                        "end": 42.15951,
+                        "confidence": 0.8617196,
+                        "punctuated_word": "pinch."
+                     },
+                     {
+                        "word": "say",
+                        "start": 46.127625,
+                        "end": 46.287014,
+                        "confidence": 0.99968255,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 46.287014,
+                        "end": 46.4464,
+                        "confidence": 0.9967775,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 46.4464,
+                        "end": 46.924564,
+                        "confidence": 0.7304744,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "such",
+                        "start": 46.924564,
+                        "end": 47.40273,
+                        "confidence": 0.9930147,
+                        "punctuated_word": "such."
+                     },
+                     {
+                        "word": "say",
+                        "start": 51.068645,
+                        "end": 51.228035,
+                        "confidence": 0.9995795,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 51.228035,
+                        "end": 51.38742,
+                        "confidence": 0.99267155,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 51.38742,
+                        "end": 51.825737,
+                        "confidence": 0.9993961,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "bus",
+                        "start": 51.825737,
+                        "end": 52.144512,
+                        "confidence": 0.8263337,
+                        "punctuated_word": "bus."
+                     },
+                     {
+                        "word": "say",
+                        "start": 56.270824,
+                        "end": 56.430595,
+                        "confidence": 0.9990926,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 56.430595,
+                        "end": 56.59037,
+                        "confidence": 0.99101394,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 56.59037,
+                        "end": 57.069687,
+                        "confidence": 0.9996675,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "need",
+                        "start": 57.069687,
+                        "end": 57.389233,
+                        "confidence": 0.9688953,
+                        "punctuated_word": "need."
+                     },
+                     {
+                        "word": "say",
+                        "start": 61.1571,
+                        "end": 61.316505,
+                        "confidence": 0.999762,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 61.316505,
+                        "end": 61.515766,
+                        "confidence": 0.9968811,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 61.515766,
+                        "end": 61.91428,
+                        "confidence": 0.99993,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "ways",
+                        "start": 61.91428,
+                        "end": 62.41428,
+                        "confidence": 0.74790305,
+                        "punctuated_word": "ways."
+                     },
+                     {
+                        "word": "say",
+                        "start": 66.17839,
+                        "end": 66.37765,
+                        "confidence": 0.99949384,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 66.37765,
+                        "end": 66.53705,
+                        "confidence": 0.99622667,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 66.53705,
+                        "end": 67.01527,
+                        "confidence": 0.9993414,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "five",
+                        "start": 67.01527,
+                        "end": 67.51527,
+                        "confidence": 0.9777023,
+                        "punctuated_word": "five"
+                     },
+                     {
+                        "word": "say",
+                        "start": 71.13381,
+                        "end": 71.29315,
+                        "confidence": 0.9994293,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 71.29315,
+                        "end": 71.49232,
+                        "confidence": 0.99731904,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 71.49232,
+                        "end": 71.97033,
+                        "confidence": 0.9997242,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "mouth",
+                        "start": 71.97033,
+                        "end": 72.24917,
+                        "confidence": 0.8702958,
+                        "punctuated_word": "mouth."
+                     },
+                     {
+                        "word": "say",
+                        "start": 76.168945,
+                        "end": 76.328606,
+                        "confidence": 0.99907815,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 76.328606,
+                        "end": 76.488266,
+                        "confidence": 0.99833786,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 76.488266,
+                        "end": 76.988266,
+                        "confidence": 0.9997141,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "reg",
+                        "start": 77.00717,
+                        "end": 77.50717,
+                        "confidence": 0.6041726,
+                        "punctuated_word": "reg."
+                     },
+                     {
+                        "word": "say",
+                        "start": 81.07856,
+                        "end": 81.23823,
+                        "confidence": 0.9975018,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 81.23823,
+                        "end": 81.39789,
+                        "confidence": 0.99375004,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 81.39789,
+                        "end": 81.87688,
+                        "confidence": 0.99964464,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "put",
+                        "start": 81.87688,
+                        "end": 82.03654,
+                        "confidence": 0.9979088,
+                        "punctuated_word": "put."
+                     },
+                     {
+                        "word": "say",
+                        "start": 86.085,
+                        "end": 86.244995,
+                        "confidence": 0.9995777,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 86.244995,
+                        "end": 86.405,
+                        "confidence": 0.99867296,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 86.405,
+                        "end": 86.905,
+                        "confidence": 0.9996488,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "fed",
+                        "start": 86.924995,
+                        "end": 87.16499,
+                        "confidence": 0.98937637,
+                        "punctuated_word": "fed."
+                     },
+                     {
+                        "word": "say",
+                        "start": 91.125,
+                        "end": 91.284996,
+                        "confidence": 0.99932444,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 91.284996,
+                        "end": 91.445,
+                        "confidence": 0.99740165,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 91.445,
+                        "end": 91.945,
+                        "confidence": 0.9998356,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "fold",
+                        "start": 91.965,
+                        "end": 92.325,
+                        "confidence": 0.7655687,
+                        "punctuated_word": "fold."
+                     },
+                     {
+                        "word": "say",
+                        "start": 96.057236,
+                        "end": 96.21688,
+                        "confidence": 0.9994104,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 96.21688,
+                        "end": 96.37653,
+                        "confidence": 0.99789774,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 96.37653,
+                        "end": 96.85548,
+                        "confidence": 0.9998841,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "hunt",
+                        "start": 96.85548,
+                        "end": 97.05504,
+                        "confidence": 0.96885973,
+                        "punctuated_word": "hunt."
+                     },
+                     {
+                        "word": "say",
+                        "start": 100.966446,
+                        "end": 101.12609,
+                        "confidence": 0.9995505,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 101.12609,
+                        "end": 101.32565,
+                        "confidence": 0.99808794,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 101.32565,
+                        "end": 101.82565,
+                        "confidence": 0.99991333,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "no",
+                        "start": 101.84451,
+                        "end": 102.1239,
+                        "confidence": 0.99352264,
+                        "punctuated_word": "no."
+                     },
+                     {
+                        "word": "say",
+                        "start": 105.89087,
+                        "end": 106.05054,
+                        "confidence": 0.9992901,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 106.05054,
+                        "end": 106.25012,
+                        "confidence": 0.9981756,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 106.25012,
+                        "end": 106.75012,
+                        "confidence": 0.9998652,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "box",
+                        "start": 106.769035,
+                        "end": 107.08837,
+                        "confidence": 0.9730836,
+                        "punctuated_word": "box."
+                     },
+                     {
+                        "word": "say",
+                        "start": 110.920364,
+                        "end": 111.08003,
+                        "confidence": 0.9992661,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 111.08003,
+                        "end": 111.319534,
+                        "confidence": 0.99810755,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 111.319534,
+                        "end": 111.819534,
+                        "confidence": 0.9992594,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "r",
+                        "start": 111.838455,
+                        "end": 112.338455,
+                        "confidence": 0.6389272,
+                        "punctuated_word": "r"
+                     },
+                     {
+                        "word": "say",
+                        "start": 115.84999,
+                        "end": 116.049995,
+                        "confidence": 0.99975544,
+                        "punctuated_word": "say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 116.049995,
+                        "end": 116.20999,
+                        "confidence": 0.9973441,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 116.20999,
+                        "end": 116.689995,
+                        "confidence": 0.99971277,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "teach",
+                        "start": 116.689995,
+                        "end": 116.96999,
+                        "confidence": 0.99088365,
+                        "punctuated_word": "teach."
+                     },
+                     {
+                        "word": "say",
+                        "start": 120.86389,
+                        "end": 121.02338,
+                        "confidence": 0.9996927,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 121.02338,
+                        "end": 121.18286,
+                        "confidence": 0.9983717,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 121.18286,
+                        "end": 121.68286,
+                        "confidence": 0.9188364,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "slice",
+                        "start": 121.78092,
+                        "end": 122.28092,
+                        "confidence": 0.9885431,
+                        "punctuated_word": "slice."
+                     },
+                     {
+                        "word": "say",
+                        "start": 125.8876,
+                        "end": 126.08695,
+                        "confidence": 0.9984812,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 126.08695,
+                        "end": 126.28631,
+                        "confidence": 0.9972109,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 126.28631,
+                        "end": 126.68501,
+                        "confidence": 0.9997402,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "is",
+                        "start": 126.68501,
+                        "end": 127.04385,
+                        "confidence": 0.93807983,
+                        "punctuated_word": "is."
+                     },
+                     {
+                        "word": "say",
+                        "start": 130.8073,
+                        "end": 130.96687,
+                        "confidence": 0.9994024,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 130.96687,
+                        "end": 131.12645,
+                        "confidence": 0.99806887,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 131.12645,
+                        "end": 131.62645,
+                        "confidence": 0.9990639,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "tree",
+                        "start": 131.72485,
+                        "end": 131.96423,
+                        "confidence": 0.996061,
+                        "punctuated_word": "tree."
+                     },
+                     {
+                        "word": "say",
+                        "start": 135.75417,
+                        "end": 135.91376,
+                        "confidence": 0.9993887,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 135.91376,
+                        "end": 136.11322,
+                        "confidence": 0.9976767,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 136.11322,
+                        "end": 136.61322,
+                        "confidence": 0.84630305,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "smile",
+                        "start": 136.71164,
+                        "end": 136.99089,
+                        "confidence": 0.9928201,
+                        "punctuated_word": "smile."
+                     },
+                     {
+                        "word": "say",
+                        "start": 140.84001,
+                        "end": 140.99979,
+                        "confidence": 0.9996152,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 140.99979,
+                        "end": 141.19951,
+                        "confidence": 0.99618274,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 141.19951,
+                        "end": 141.69951,
+                        "confidence": 0.99988365,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "bath",
+                        "start": 141.71877,
+                        "end": 141.95842,
+                        "confidence": 0.97043186,
+                        "punctuated_word": "bath."
+                     },
+                     {
+                        "word": "say",
+                        "start": 145.8071,
+                        "end": 145.96677,
+                        "confidence": 0.999534,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 145.96677,
+                        "end": 146.16637,
+                        "confidence": 0.9985794,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 146.16637,
+                        "end": 146.66637,
+                        "confidence": 0.6066837,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "slip",
+                        "start": 146.72523,
+                        "end": 146.8849,
+                        "confidence": 0.9914452,
+                        "punctuated_word": "slip."
+                     },
+                     {
+                        "word": "say",
+                        "start": 150.75702,
+                        "end": 150.91669,
+                        "confidence": 0.9992924,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 150.91669,
+                        "end": 151.11629,
+                        "confidence": 0.998459,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 151.11629,
+                        "end": 151.61629,
+                        "confidence": 0.9998832,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "ride",
+                        "start": 151.67514,
+                        "end": 151.95457,
+                        "confidence": 0.8441238,
+                        "punctuated_word": "ride."
+                     },
+                     {
+                        "word": "say",
+                        "start": 155.6418,
+                        "end": 155.84134,
+                        "confidence": 0.9991761,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 155.84134,
+                        "end": 156.0409,
+                        "confidence": 0.9988274,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 156.0409,
+                        "end": 156.4799,
+                        "confidence": 0.9997286,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "and",
+                        "start": 156.4799,
+                        "end": 156.79918,
+                        "confidence": 0.5478445,
+                        "punctuated_word": "and."
+                     },
+                     {
+                        "word": "say",
+                        "start": 160.63052,
+                        "end": 160.79018,
+                        "confidence": 0.9989135,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 160.79018,
+                        "end": 160.94981,
+                        "confidence": 0.9969416,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 160.94981,
+                        "end": 161.38882,
+                        "confidence": 0.9995345,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "pink",
+                        "start": 161.38882,
+                        "end": 161.58836,
+                        "confidence": 0.995044,
+                        "punctuated_word": "pink."
+                     },
+                     {
+                        "word": "say",
+                        "start": 165.59485,
+                        "end": 165.75452,
+                        "confidence": 0.99951017,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 165.75452,
+                        "end": 165.9541,
+                        "confidence": 0.9980495,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 165.9541,
+                        "end": 166.4541,
+                        "confidence": 0.9997557,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "thank",
+                        "start": 166.47304,
+                        "end": 166.67262,
+                        "confidence": 0.599192,
+                        "punctuated_word": "thank."
+                     },
+                     {
+                        "word": "say",
+                        "start": 170.58456,
+                        "end": 170.78415,
+                        "confidence": 0.99936837,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 170.78415,
+                        "end": 170.94382,
+                        "confidence": 0.99683124,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 170.94382,
+                        "end": 171.38292,
+                        "confidence": 0.99952626,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "take",
+                        "start": 171.38292,
+                        "end": 171.5825,
+                        "confidence": 0.99810106,
+                        "punctuated_word": "take."
+                     },
+                     {
+                        "word": "say",
+                        "start": 175.67499,
+                        "end": 175.83499,
+                        "confidence": 0.99936944,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 175.83499,
+                        "end": 175.99498,
+                        "confidence": 0.99666435,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 175.99498,
+                        "end": 176.49498,
+                        "confidence": 0.9998072,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "cart",
+                        "start": 176.555,
+                        "end": 176.71498,
+                        "confidence": 0.8291707,
+                        "punctuated_word": "cart."
+                     },
+                     {
+                        "word": "say",
+                        "start": 180.6892,
+                        "end": 180.84888,
+                        "confidence": 0.99965847,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 180.84888,
+                        "end": 181.00854,
+                        "confidence": 0.99823356,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 181.00854,
+                        "end": 181.50854,
+                        "confidence": 0.85569274,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "sc",
+                        "start": 181.6073,
+                        "end": 182.1073,
+                        "confidence": 0.9536357,
+                        "punctuated_word": "sc."
+                     },
+                     {
+                        "word": "say",
+                        "start": 185.67891,
+                        "end": 185.8785,
+                        "confidence": 0.99933726,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 185.8785,
+                        "end": 186.03818,
+                        "confidence": 0.99635905,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 186.03818,
+                        "end": 186.51718,
+                        "confidence": 0.99963677,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "lay",
+                        "start": 186.51718,
+                        "end": 186.7966,
+                        "confidence": 0.92918146,
+                        "punctuated_word": "lay."
+                     },
+                     {
+                        "word": "say",
+                        "start": 190.72498,
+                        "end": 190.84499,
+                        "confidence": 0.9993399,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 190.84499,
+                        "end": 191.00497,
+                        "confidence": 0.99815506,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 191.00497,
+                        "end": 191.50497,
+                        "confidence": 0.9997389,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "class",
+                        "start": 191.64497,
+                        "end": 191.92497,
+                        "confidence": 0.99518245,
+                        "punctuated_word": "class."
+                     },
+                     {
+                        "word": "say",
+                        "start": 195.56497,
+                        "end": 195.72498,
+                        "confidence": 0.9996039,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 195.72498,
+                        "end": 195.92497,
+                        "confidence": 0.99471563,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 195.92497,
+                        "end": 196.40498,
+                        "confidence": 0.9999256,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "me",
+                        "start": 196.40498,
+                        "end": 196.64497,
+                        "confidence": 0.9991229,
+                        "punctuated_word": "me."
+                     },
+                     {
+                        "word": "say",
+                        "start": 200.52846,
+                        "end": 200.68779,
+                        "confidence": 0.99939525,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 200.68779,
+                        "end": 200.84714,
+                        "confidence": 0.9979936,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 200.84714,
+                        "end": 201.32515,
+                        "confidence": 0.99966955,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "dish",
+                        "start": 201.32515,
+                        "end": 201.60399,
+                        "confidence": 0.9930234,
+                        "punctuated_word": "dish."
+                     },
+                     {
+                        "word": "say",
+                        "start": 205.56499,
+                        "end": 205.76498,
+                        "confidence": 0.99569017,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 205.76498,
+                        "end": 205.92499,
+                        "confidence": 0.9978096,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 205.92499,
+                        "end": 206.40498,
+                        "confidence": 0.9997912,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "nick",
+                        "start": 206.40498,
+                        "end": 206.805,
+                        "confidence": 0.5235843,
+                        "punctuated_word": "nick."
+                     },
+                     {
+                        "word": "say",
+                        "start": 210.60498,
+                        "end": 210.76498,
+                        "confidence": 0.9987557,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 210.76498,
+                        "end": 210.96498,
+                        "confidence": 0.9950074,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 210.96498,
+                        "end": 211.40498,
+                        "confidence": 0.9996685,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "beef",
+                        "start": 211.40498,
+                        "end": 211.68498,
+                        "confidence": 0.98040026,
+                        "punctuated_word": "beef."
+                     },
+                     {
+                        "word": "say",
+                        "start": 215.41998,
+                        "end": 215.57999,
+                        "confidence": 0.99939156,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 215.57999,
+                        "end": 215.73997,
+                        "confidence": 0.99701875,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 215.73997,
+                        "end": 216.21999,
+                        "confidence": 0.9996965,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "few",
+                        "start": 216.21999,
+                        "end": 216.53998,
+                        "confidence": 0.9800515,
+                        "punctuated_word": "few."
+                     },
+                     {
+                        "word": "say",
+                        "start": 220.45998,
+                        "end": 220.61998,
+                        "confidence": 0.99977857,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 220.61998,
+                        "end": 220.77998,
+                        "confidence": 0.9972166,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 220.77998,
+                        "end": 221.17998,
+                        "confidence": 0.9991448,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "use",
+                        "start": 221.17998,
+                        "end": 221.57999,
+                        "confidence": 0.72941816,
+                        "punctuated_word": "use."
+                     },
+                     {
+                        "word": "say",
+                        "start": 225.35126,
+                        "end": 225.51103,
+                        "confidence": 0.99966264,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 225.51103,
+                        "end": 225.6708,
+                        "confidence": 0.99526006,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 225.6708,
+                        "end": 226.07024,
+                        "confidence": 0.99837255,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "did",
+                        "start": 226.07024,
+                        "end": 226.3099,
+                        "confidence": 0.9576,
+                        "punctuated_word": "did."
+                     },
+                     {
+                        "word": "say",
+                        "start": 230.31937,
+                        "end": 230.47919,
+                        "confidence": 0.9989027,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 230.47919,
+                        "end": 230.67896,
+                        "confidence": 0.9958539,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 230.67896,
+                        "end": 231.11845,
+                        "confidence": 0.9995515,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "bit",
+                        "start": 231.11845,
+                        "end": 231.61845,
+                        "confidence": 0.990032,
+                        "punctuated_word": "bit."
+                     },
+                     {
+                        "word": "say",
+                        "start": 235.35358,
+                        "end": 235.5134,
+                        "confidence": 0.9988709,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 235.5134,
+                        "end": 235.71317,
+                        "confidence": 0.99647933,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 235.71317,
+                        "end": 236.19263,
+                        "confidence": 0.9998497,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "pond",
+                        "start": 236.19263,
+                        "end": 236.51225,
+                        "confidence": 0.8139214,
+                        "punctuated_word": "pond."
+                     },
+                     {
+                        "word": "say",
+                        "start": 240.28142,
+                        "end": 240.48102,
+                        "confidence": 0.99919635,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 240.48102,
+                        "end": 240.68062,
+                        "confidence": 0.99707747,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 240.68062,
+                        "end": 241.11974,
+                        "confidence": 0.999603,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "hot",
+                        "start": 241.11974,
+                        "end": 241.35925,
+                        "confidence": 0.95752865,
+                        "punctuated_word": "hot."
+                     },
+                     {
+                        "word": "say",
+                        "start": 245.23146,
+                        "end": 245.39113,
+                        "confidence": 0.9990802,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 245.39113,
+                        "end": 245.63065,
+                        "confidence": 0.9966594,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 245.63065,
+                        "end": 246.13065,
+                        "confidence": 0.999824,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "on",
+                        "start": 246.14961,
+                        "end": 246.46896,
+                        "confidence": 0.67925173,
+                        "punctuated_word": "on."
+                     },
+                     {
+                        "word": "say",
+                        "start": 250.2,
+                        "end": 250.35999,
+                        "confidence": 0.9990252,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 250.35999,
+                        "end": 250.51999,
+                        "confidence": 0.99841475,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 250.51999,
+                        "end": 250.99998,
+                        "confidence": 0.9996654,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "bead",
+                        "start": 250.99998,
+                        "end": 251.28,
+                        "confidence": 0.9600023,
+                        "punctuated_word": "bead."
+                     },
+                     {
+                        "word": "say",
+                        "start": 255.35999,
+                        "end": 255.51999,
+                        "confidence": 0.9991416,
+                        "punctuated_word": "Say"
+                     },
+                     {
+                        "word": "the",
+                        "start": 255.51999,
+                        "end": 255.71999,
+                        "confidence": 0.99730575,
+                        "punctuated_word": "the"
+                     },
+                     {
+                        "word": "word",
+                        "start": 255.71999,
+                        "end": 256.21997,
+                        "confidence": 0.8760648,
+                        "punctuated_word": "word"
+                     },
+                     {
+                        "word": "shop",
+                        "start": 256.28,
+                        "end": 256.44,
+                        "confidence": 0.91046804,
+                        "punctuated_word": "shop."
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   "run-time": 2.65
+}

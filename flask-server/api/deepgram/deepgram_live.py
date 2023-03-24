@@ -1,6 +1,6 @@
 #########################
 # Imports:
-from deepgram_key import DEEPGRAM_API_KEY
+from .deepgram_key import DEEPGRAM_API_KEY
 from deepgram import Deepgram
 import asyncio
 import aiohttp
@@ -46,4 +46,3 @@ async def runDeepgramLiveTranscript():
 
 # If running in a Jupyter notebook, Jupyter is already running an event loop, so run main with this line instead:
 #await runDeepgramLiveTranscript()
-asyncio.run(runDeepgramLiveTranscript())

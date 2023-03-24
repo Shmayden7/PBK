@@ -7,15 +7,6 @@ from .deepgram_key import DEEPGRAM_API_KEY
 FILE = 'YOUR_FILE_LOCATION'
 #########################
 
-# Location of the file you want to transcribe. Should include filename and extension.
-# Example of a local file: ../../Audio/life-moves-pretty-fast.wav
-# Example of a remote file: https://static.deepgram.com/examples/interview_speech-analytics.wav
-
-
-# Mimetype for the file you want to transcribe
-# Include this line only if transcribing a local file
-# Example: 
-
 #########################
 # Get Deepgram Data
 # Desc: sends audio file to endpoint and gets response data
@@ -24,22 +15,24 @@ FILE = 'YOUR_FILE_LOCATION'
 # Dependant on: N.A.
 # MUST BE RUN AS AWAIT
 #########################
-async def getDeepgramDataNew(filePath,fileType='audio/wav'):
+async def getDeepgramDataNew(file_name, audio_path='data/audio/', fileType='audio/wav'):
   
+  file_path = audio_path + file_name
+
   # Initialize the Deepgram SDK
   deepgram = Deepgram(DEEPGRAM_API_KEY)
 
   # Check whether requested file is local or remote, and prepare source
-  if filePath.startswith('http'):
+  if file_path.startswith('http'):
     # filePath is remote
     # Set the source
     source = {
-      'url': filePath
+      'url': file_path
     }
   else:
     # filePath is local
     # Open the audio filePath
-    audio = open(filePath, 'rb')
+    audio = open(file_path, 'rb')
 
     # Set the source
     source = {
@@ -56,16 +49,4 @@ async def getDeepgramDataNew(filePath,fileType='audio/wav'):
       }
     )
   )
-
-
-  # Write only the transcript to the console
-  #print(response["results"]["channels"][0]["alternatives"][0]["transcript"])
-
-# try:
-#   # If running in a Jupyter notebook, Jupyter is already running an event loop, so run main with this line instead:
-#   #await main()
-#   asyncio.run(getDeepgramData())
-# except Exception as e:
-#   exception_type, exception_object, exception_traceback = sys.exc_info()
-#   line_number = exception_traceback.tb_lineno
-#   print(f'line {line_number}: {exception_type} - {e}')
+  return response

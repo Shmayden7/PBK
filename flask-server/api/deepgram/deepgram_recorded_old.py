@@ -24,27 +24,30 @@ FILE = 'YOUR_FILE_LOCATION'
 # Dependant on: N.A.
 # MUST BE RUN AS AWAIT
 #########################
-async def getDeepgramDataOld(filePath,fileType='audio/wav'):
+async def getDeepgramDataOld(file_name: str, audio_path='data/audio/', file_type='wav'):
   
+  file_path = audio_path + file_name
+  file_type = 'audio/' + file_type
+
   # Initialize the Deepgram SDK
   deepgram = Deepgram(DEEPGRAM_API_KEY)
 
   # Check whether requested file is local or remote, and prepare source
-  if filePath.startswith('http'):
+  if file_path.startswith('http'):
     # filePath is remote
     # Set the source
     source = {
-      'url': filePath
+      'url': file_path
     }
   else:
     # filePath is local
     # Open the audio filePath
-    audio = open(filePath, 'rb')
+    audio = open(file_path, 'rb')
 
     # Set the source
     source = {
       'buffer': audio,
-      'mimetype': fileType
+      'mimetype': file_type
     }
 
   # Send the audio to Deepgram and get the response
@@ -56,10 +59,11 @@ async def getDeepgramDataOld(filePath,fileType='audio/wav'):
       }
     )
   )
-    return response
+
+  print(json.dumps(response, indent=3))
 
   # Write only the transcript to the console
-  #print(response["results"]["channels"][0]["alternatives"][0]["transcript"])
+  print(response["results"]["channels"][0]["alternatives"][0]["transcript"])
 
 # try:
 #   # If running in a Jupyter notebook, Jupyter is already running an event loop, so run main with this line instead:
