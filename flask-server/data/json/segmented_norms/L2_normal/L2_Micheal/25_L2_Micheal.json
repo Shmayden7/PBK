@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.97,
+               "content": "Path",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.06,
+         "start_time": 2.49,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.03,
+   "duration": 4
+}

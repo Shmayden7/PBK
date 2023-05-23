@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Put",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.92,
+         "start_time": 2.11,
+         "type": "word"
+      }
+   ],
+   "run_time": 35.04,
+   "duration": 4
+}

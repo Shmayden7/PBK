@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.84,
+               "content": "Splash",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.54,
+         "start_time": 0.11,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.12,
+   "duration": 0
+}

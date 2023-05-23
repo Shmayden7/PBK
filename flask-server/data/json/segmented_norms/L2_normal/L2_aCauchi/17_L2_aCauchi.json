@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.89,
+               "content": "Be",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.6,
+         "start_time": 1.67,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.56,
+   "duration": 4
+}

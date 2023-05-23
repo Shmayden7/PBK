@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.96,
+               "content": "Pants",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.83,
+         "start_time": 2.99,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.61,
+   "duration": 5
+}

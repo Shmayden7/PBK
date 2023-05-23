@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.32,
+               "content": "Kurt",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.59,
+         "start_time": 0.24,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.31,
+   "duration": 0
+}

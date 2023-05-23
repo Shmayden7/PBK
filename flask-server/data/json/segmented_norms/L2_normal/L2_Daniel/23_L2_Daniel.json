@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Suit",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.75,
+         "start_time": 2.06,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.94,
+   "duration": 4
+}

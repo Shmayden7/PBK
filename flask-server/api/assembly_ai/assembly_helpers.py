@@ -1,5 +1,14 @@
 #########################
-# Parsing Raw Assembly AI Data
+# Imports:
+import time, json
+
+from api.assembly_ai.assembly_recorded import getAssemblyAIData
+from analysis.json_helpers import dumpDictToJSON
+
+# Constants:
+#########################
+
+#########################
 # Desc: Removes un-necessary information from the returned api dict
 # Params: raw data dict, single string of attributes, space separated
 # Return: dict, Assembly AI data that we care about
@@ -22,9 +31,7 @@ def parseRawAssembly(data: dict, attributes: str):
 
     return important_data
 
-
 #########################
-# Save to .Txt, NEED TO MOVE THIS
 # Desc: saves the response as a text file
 # Params: data fetched from the API
 # Return: N.A., saves a txt file to same directory
@@ -37,3 +44,20 @@ def saveTranscriptToTxt(data, file_name='Assembly_AI_Transcription'):
             f.write(data['text'])
         print('Transcription complete!!!')
 
+#########################
+# Desc: Runs Assembly Ai Poll, uploads an MP3/wav, saves the responce as a json
+# Params: data fetched from the API
+# Return: N.A., saves a txt file to same directory
+# Dependant on: N.A.
+#########################
+def runAssembly(file_name: str, cfg: dict, audio_path='data/audio/', dump_location='data/json/'):
+    print('Running Assembly!')
+    timer_start = time.time()
+    data = getAssemblyAIData(file_name, cfg, audio_path)
+    run_time = float("%.2f" % (time.time() - timer_start))
+    data.update({'run_time': run_time})
+    data.update({'list_number': cfg['list_number']})
+            
+    print('Assembly Classification Complete! Runtime: {}s'.format(run_time))
+    dumpDictToJSON(data, '{}.json'.format(file_name[:-4]), dump_location=dump_location)
+    print()

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.91,
+               "content": "We'd",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 1.74,
+         "start_time": 0.87,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.02,
+   "duration": 4
+}

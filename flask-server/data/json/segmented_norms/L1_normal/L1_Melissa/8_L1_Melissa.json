@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.75,
+               "content": "Bus",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.42,
+         "start_time": 1.82,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.77,
+   "duration": 5
+}

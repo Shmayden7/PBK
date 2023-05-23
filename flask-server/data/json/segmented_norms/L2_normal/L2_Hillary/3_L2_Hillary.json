@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.48,
+               "content": "Plow",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.63,
+         "start_time": 2.21,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.02,
+   "duration": 4
+}

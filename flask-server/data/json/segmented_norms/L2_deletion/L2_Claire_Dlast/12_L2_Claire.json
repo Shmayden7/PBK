@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.79,
+               "content": "Life",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.72,
+         "start_time": 2.91,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.76,
+   "duration": 4
+}

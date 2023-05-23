@@ -1,0 +1,2545 @@
+{
+   "audio_duration": 264,
+   "text": "please please great great sled sled pants pants rat rat bad bad pinch pinch such such bus bus need need ways ways five five mouth mouth rag rag put put fed fed fold fold hunt hunt null null box box r r teach teach slice slice is is tree tree smile smile bath bath slip slip ride ride end end pink pink you thank thank take take cart cart scab scab lay lay class s class me me dish dish neck neck beef beef few few you use use did did bit bit pond pond hot hot oh own own bead bead shop shop",
+   "words": [
+      {
+         "text": "please",
+         "start": 15090,
+         "end": 15640,
+         "confidence": 0.7406,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "please",
+         "start": 15090,
+         "end": 15640,
+         "confidence": 0.70876,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "great",
+         "start": 19770,
+         "end": 20520,
+         "confidence": 0.77123,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "great",
+         "start": 19770,
+         "end": 20520,
+         "confidence": 0.76299,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "sled",
+         "start": 24970,
+         "end": 25910,
+         "confidence": 0.93157,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "sled",
+         "start": 24970,
+         "end": 25910,
+         "confidence": 0.9343,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "pants",
+         "start": 29700,
+         "end": 30720,
+         "confidence": 0.93286,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "pants",
+         "start": 29700,
+         "end": 30720,
+         "confidence": 0.93447,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "rat",
+         "start": 34940,
+         "end": 35880,
+         "confidence": 0.50262,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "rat",
+         "start": 34940,
+         "end": 35880,
+         "confidence": 0.50093,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "bad",
+         "start": 39740,
+         "end": 40490,
+         "confidence": 0.78788,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "bad",
+         "start": 39740,
+         "end": 40490,
+         "confidence": 0.78798,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "pinch",
+         "start": 44850,
+         "end": 45790,
+         "confidence": 0.54254,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "pinch",
+         "start": 44850,
+         "end": 45790,
+         "confidence": 0.55784,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "such",
+         "start": 49880,
+         "end": 50630,
+         "confidence": 0.88817,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "such",
+         "start": 49880,
+         "end": 50630,
+         "confidence": 0.88503,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "bus",
+         "start": 54840,
+         "end": 55590,
+         "confidence": 0.90979,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "bus",
+         "start": 54860,
+         "end": 55610,
+         "confidence": 0.95987,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "need",
+         "start": 59960,
+         "end": 60710,
+         "confidence": 0.66403,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "need",
+         "start": 59980,
+         "end": 60730,
+         "confidence": 0.793,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "ways",
+         "start": 64890,
+         "end": 65640,
+         "confidence": 0.49262,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "ways",
+         "start": 64970,
+         "end": 65720,
+         "confidence": 0.38742,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "five",
+         "start": 69970,
+         "end": 70720,
+         "confidence": 0.98684,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "five",
+         "start": 69970,
+         "end": 70720,
+         "confidence": 0.98457,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "mouth",
+         "start": 74880,
+         "end": 75820,
+         "confidence": 0.65248,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "mouth",
+         "start": 74880,
+         "end": 75820,
+         "confidence": 0.64337,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "rag",
+         "start": 79880,
+         "end": 80740,
+         "confidence": 0.53386,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "rag",
+         "start": 79880,
+         "end": 80740,
+         "confidence": 0.5392,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "put",
+         "start": 84600,
+         "end": 85350,
+         "confidence": 0.8264,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "put",
+         "start": 84600,
+         "end": 85350,
+         "confidence": 0.81957,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "fed",
+         "start": 89980,
+         "end": 90840,
+         "confidence": 0.91825,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "fed",
+         "start": 89980,
+         "end": 90840,
+         "confidence": 0.91705,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "fold",
+         "start": 94940,
+         "end": 95800,
+         "confidence": 0.93549,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "fold",
+         "start": 94940,
+         "end": 95800,
+         "confidence": 0.9336,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "hunt",
+         "start": 99680,
+         "end": 100540,
+         "confidence": 0.51097,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "hunt",
+         "start": 99760,
+         "end": 100540,
+         "confidence": 0.86641,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "null",
+         "start": 104850,
+         "end": 105710,
+         "confidence": 0.92959,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "null",
+         "start": 104880,
+         "end": 105740,
+         "confidence": 0.98033,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "box",
+         "start": 109780,
+         "end": 110530,
+         "confidence": 0.63626,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "box",
+         "start": 109780,
+         "end": 110530,
+         "confidence": 0.5536,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "r",
+         "start": 114870,
+         "end": 115620,
+         "confidence": 0.7519,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "r",
+         "start": 114870,
+         "end": 115620,
+         "confidence": 0.72239,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "teach",
+         "start": 119530,
+         "end": 120280,
+         "confidence": 0.58074,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "teach",
+         "start": 119530,
+         "end": 120280,
+         "confidence": 0.52619,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "slice",
+         "start": 124490,
+         "end": 125430,
+         "confidence": 0.68577,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "slice",
+         "start": 124490,
+         "end": 125430,
+         "confidence": 0.73982,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "is",
+         "start": 129770,
+         "end": 130520,
+         "confidence": 0.99806,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "is",
+         "start": 129770,
+         "end": 130520,
+         "confidence": 0.99812,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "tree",
+         "start": 134530,
+         "end": 135470,
+         "confidence": 0.96839,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "tree",
+         "start": 134530,
+         "end": 135470,
+         "confidence": 0.96674,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "smile",
+         "start": 139490,
+         "end": 140350,
+         "confidence": 0.81969,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "smile",
+         "start": 139490,
+         "end": 140350,
+         "confidence": 0.77163,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "bath",
+         "start": 144410,
+         "end": 145350,
+         "confidence": 0.58622,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "bath",
+         "start": 144410,
+         "end": 145350,
+         "confidence": 0.53084,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "slip",
+         "start": 149450,
+         "end": 150470,
+         "confidence": 0.56779,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "slip",
+         "start": 149460,
+         "end": 150480,
+         "confidence": 0.72951,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "ride",
+         "start": 154530,
+         "end": 155470,
+         "confidence": 0.68554,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "ride",
+         "start": 154540,
+         "end": 155480,
+         "confidence": 0.75047,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "end",
+         "start": 159480,
+         "end": 160230,
+         "confidence": 0.85848,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "end",
+         "start": 159500,
+         "end": 160250,
+         "confidence": 0.89574,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "pink",
+         "start": 164120,
+         "end": 165060,
+         "confidence": 0.55694,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "pink",
+         "start": 164140,
+         "end": 165000,
+         "confidence": 0.73422,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "you",
+         "start": 167660,
+         "end": 168410,
+         "confidence": 0.39161,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "thank",
+         "start": 169360,
+         "end": 170110,
+         "confidence": 0.56562,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "thank",
+         "start": 169380,
+         "end": 170130,
+         "confidence": 0.63455,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "take",
+         "start": 174240,
+         "end": 174990,
+         "confidence": 0.88131,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "take",
+         "start": 174250,
+         "end": 175000,
+         "confidence": 0.95692,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "cart",
+         "start": 179760,
+         "end": 180700,
+         "confidence": 0.54933,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "cart",
+         "start": 179770,
+         "end": 180710,
+         "confidence": 0.65745,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "scab",
+         "start": 184400,
+         "end": 185340,
+         "confidence": 0.98872,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "scab",
+         "start": 184410,
+         "end": 185350,
+         "confidence": 0.99213,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "lay",
+         "start": 189440,
+         "end": 190190,
+         "confidence": 0.8267,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "lay",
+         "start": 189450,
+         "end": 190200,
+         "confidence": 0.92615,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "class",
+         "start": 194410,
+         "end": 194990,
+         "confidence": 0.55876,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "class",
+         "start": 194440,
+         "end": 195190,
+         "confidence": 0.512,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "s",
+         "start": 195100,
+         "end": 195760,
+         "confidence": 0.88067,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "me",
+         "start": 199250,
+         "end": 200000,
+         "confidence": 0.65726,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "me",
+         "start": 199320,
+         "end": 200070,
+         "confidence": 0.99472,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "dish",
+         "start": 204200,
+         "end": 205140,
+         "confidence": 0.997,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "dish",
+         "start": 204210,
+         "end": 205070,
+         "confidence": 0.61098,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "neck",
+         "start": 209210,
+         "end": 210150,
+         "confidence": 0.43842,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "neck",
+         "start": 209280,
+         "end": 210140,
+         "confidence": 0.57801,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "beef",
+         "start": 214280,
+         "end": 215220,
+         "confidence": 0.56542,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "beef",
+         "start": 214290,
+         "end": 215150,
+         "confidence": 0.44265,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "few",
+         "start": 219160,
+         "end": 219910,
+         "confidence": 0.86648,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "few",
+         "start": 219170,
+         "end": 219920,
+         "confidence": 0.82157,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "you",
+         "start": 222930,
+         "end": 223680,
+         "confidence": 0.26163,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "use",
+         "start": 224170,
+         "end": 224920,
+         "confidence": 0.45272,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "use",
+         "start": 224240,
+         "end": 224990,
+         "confidence": 0.80874,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "did",
+         "start": 228880,
+         "end": 229630,
+         "confidence": 0.73898,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "did",
+         "start": 228890,
+         "end": 229640,
+         "confidence": 0.79135,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "bit",
+         "start": 233930,
+         "end": 234680,
+         "confidence": 0.96254,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "bit",
+         "start": 233970,
+         "end": 234720,
+         "confidence": 0.9619,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "pond",
+         "start": 239050,
+         "end": 239990,
+         "confidence": 0.92862,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "pond",
+         "start": 239090,
+         "end": 239950,
+         "confidence": 0.49229,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "hot",
+         "start": 244080,
+         "end": 244830,
+         "confidence": 0.78386,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "hot",
+         "start": 244120,
+         "end": 244870,
+         "confidence": 0.92643,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "oh",
+         "start": 249040,
+         "end": 249428,
+         "confidence": 0.74605,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "own",
+         "start": 249280,
+         "end": 250030,
+         "confidence": 0.8917,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "own",
+         "start": 249474,
+         "end": 250070,
+         "confidence": 0.7005,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "bead",
+         "start": 254000,
+         "end": 254940,
+         "confidence": 0.89883,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "bead",
+         "start": 254040,
+         "end": 254900,
+         "confidence": 0.78798,
+         "speaker": "1",
+         "channel": "1"
+      },
+      {
+         "text": "shop",
+         "start": 259090,
+         "end": 259840,
+         "confidence": 0.77633,
+         "speaker": "2",
+         "channel": "2"
+      },
+      {
+         "text": "shop",
+         "start": 259130,
+         "end": 259880,
+         "confidence": 0.99459,
+         "speaker": "1",
+         "channel": "1"
+      }
+   ],
+   "utterances": [
+      {
+         "channel": "1",
+         "text": "please",
+         "confidence": 0.7406,
+         "start": 15090,
+         "end": 15640,
+         "words": [
+            {
+               "text": "please",
+               "start": 15090,
+               "end": 15640,
+               "confidence": 0.7406,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "please",
+         "confidence": 0.70876,
+         "start": 15090,
+         "end": 15640,
+         "words": [
+            {
+               "text": "please",
+               "start": 15090,
+               "end": 15640,
+               "confidence": 0.70876,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "great",
+         "confidence": 0.77123,
+         "start": 19770,
+         "end": 20520,
+         "words": [
+            {
+               "text": "great",
+               "start": 19770,
+               "end": 20520,
+               "confidence": 0.77123,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "great",
+         "confidence": 0.76299,
+         "start": 19770,
+         "end": 20520,
+         "words": [
+            {
+               "text": "great",
+               "start": 19770,
+               "end": 20520,
+               "confidence": 0.76299,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "sled",
+         "confidence": 0.93157,
+         "start": 24970,
+         "end": 25910,
+         "words": [
+            {
+               "text": "sled",
+               "start": 24970,
+               "end": 25910,
+               "confidence": 0.93157,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "sled",
+         "confidence": 0.9343,
+         "start": 24970,
+         "end": 25910,
+         "words": [
+            {
+               "text": "sled",
+               "start": 24970,
+               "end": 25910,
+               "confidence": 0.9343,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "pants",
+         "confidence": 0.93286,
+         "start": 29700,
+         "end": 30720,
+         "words": [
+            {
+               "text": "pants",
+               "start": 29700,
+               "end": 30720,
+               "confidence": 0.93286,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "pants",
+         "confidence": 0.93447,
+         "start": 29700,
+         "end": 30720,
+         "words": [
+            {
+               "text": "pants",
+               "start": 29700,
+               "end": 30720,
+               "confidence": 0.93447,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "rat",
+         "confidence": 0.50262,
+         "start": 34940,
+         "end": 35880,
+         "words": [
+            {
+               "text": "rat",
+               "start": 34940,
+               "end": 35880,
+               "confidence": 0.50262,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "rat",
+         "confidence": 0.50093,
+         "start": 34940,
+         "end": 35880,
+         "words": [
+            {
+               "text": "rat",
+               "start": 34940,
+               "end": 35880,
+               "confidence": 0.50093,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "bad",
+         "confidence": 0.78788,
+         "start": 39740,
+         "end": 40490,
+         "words": [
+            {
+               "text": "bad",
+               "start": 39740,
+               "end": 40490,
+               "confidence": 0.78788,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "bad",
+         "confidence": 0.78798,
+         "start": 39740,
+         "end": 40490,
+         "words": [
+            {
+               "text": "bad",
+               "start": 39740,
+               "end": 40490,
+               "confidence": 0.78798,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "pinch",
+         "confidence": 0.54254,
+         "start": 44850,
+         "end": 45790,
+         "words": [
+            {
+               "text": "pinch",
+               "start": 44850,
+               "end": 45790,
+               "confidence": 0.54254,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "pinch",
+         "confidence": 0.55784,
+         "start": 44850,
+         "end": 45790,
+         "words": [
+            {
+               "text": "pinch",
+               "start": 44850,
+               "end": 45790,
+               "confidence": 0.55784,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "such",
+         "confidence": 0.88817,
+         "start": 49880,
+         "end": 50630,
+         "words": [
+            {
+               "text": "such",
+               "start": 49880,
+               "end": 50630,
+               "confidence": 0.88817,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "such",
+         "confidence": 0.88503,
+         "start": 49880,
+         "end": 50630,
+         "words": [
+            {
+               "text": "such",
+               "start": 49880,
+               "end": 50630,
+               "confidence": 0.88503,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "bus",
+         "confidence": 0.90979,
+         "start": 54840,
+         "end": 55590,
+         "words": [
+            {
+               "text": "bus",
+               "start": 54840,
+               "end": 55590,
+               "confidence": 0.90979,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "bus",
+         "confidence": 0.95987,
+         "start": 54860,
+         "end": 55610,
+         "words": [
+            {
+               "text": "bus",
+               "start": 54860,
+               "end": 55610,
+               "confidence": 0.95987,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "need",
+         "confidence": 0.66403,
+         "start": 59960,
+         "end": 60710,
+         "words": [
+            {
+               "text": "need",
+               "start": 59960,
+               "end": 60710,
+               "confidence": 0.66403,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "need",
+         "confidence": 0.793,
+         "start": 59980,
+         "end": 60730,
+         "words": [
+            {
+               "text": "need",
+               "start": 59980,
+               "end": 60730,
+               "confidence": 0.793,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "ways",
+         "confidence": 0.49262,
+         "start": 64890,
+         "end": 65640,
+         "words": [
+            {
+               "text": "ways",
+               "start": 64890,
+               "end": 65640,
+               "confidence": 0.49262,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "ways",
+         "confidence": 0.38742,
+         "start": 64970,
+         "end": 65720,
+         "words": [
+            {
+               "text": "ways",
+               "start": 64970,
+               "end": 65720,
+               "confidence": 0.38742,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "five",
+         "confidence": 0.98684,
+         "start": 69970,
+         "end": 70720,
+         "words": [
+            {
+               "text": "five",
+               "start": 69970,
+               "end": 70720,
+               "confidence": 0.98684,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "five",
+         "confidence": 0.98457,
+         "start": 69970,
+         "end": 70720,
+         "words": [
+            {
+               "text": "five",
+               "start": 69970,
+               "end": 70720,
+               "confidence": 0.98457,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "mouth",
+         "confidence": 0.65248,
+         "start": 74880,
+         "end": 75820,
+         "words": [
+            {
+               "text": "mouth",
+               "start": 74880,
+               "end": 75820,
+               "confidence": 0.65248,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "mouth",
+         "confidence": 0.64337,
+         "start": 74880,
+         "end": 75820,
+         "words": [
+            {
+               "text": "mouth",
+               "start": 74880,
+               "end": 75820,
+               "confidence": 0.64337,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "rag",
+         "confidence": 0.53386,
+         "start": 79880,
+         "end": 80740,
+         "words": [
+            {
+               "text": "rag",
+               "start": 79880,
+               "end": 80740,
+               "confidence": 0.53386,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "rag",
+         "confidence": 0.5392,
+         "start": 79880,
+         "end": 80740,
+         "words": [
+            {
+               "text": "rag",
+               "start": 79880,
+               "end": 80740,
+               "confidence": 0.5392,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "put",
+         "confidence": 0.8264,
+         "start": 84600,
+         "end": 85350,
+         "words": [
+            {
+               "text": "put",
+               "start": 84600,
+               "end": 85350,
+               "confidence": 0.8264,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "put",
+         "confidence": 0.81957,
+         "start": 84600,
+         "end": 85350,
+         "words": [
+            {
+               "text": "put",
+               "start": 84600,
+               "end": 85350,
+               "confidence": 0.81957,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "fed",
+         "confidence": 0.91825,
+         "start": 89980,
+         "end": 90840,
+         "words": [
+            {
+               "text": "fed",
+               "start": 89980,
+               "end": 90840,
+               "confidence": 0.91825,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "fed",
+         "confidence": 0.91705,
+         "start": 89980,
+         "end": 90840,
+         "words": [
+            {
+               "text": "fed",
+               "start": 89980,
+               "end": 90840,
+               "confidence": 0.91705,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "fold",
+         "confidence": 0.93549,
+         "start": 94940,
+         "end": 95800,
+         "words": [
+            {
+               "text": "fold",
+               "start": 94940,
+               "end": 95800,
+               "confidence": 0.93549,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "fold hunt",
+         "confidence": 0.7222850000000001,
+         "start": 94940,
+         "end": 100540,
+         "words": [
+            {
+               "text": "fold",
+               "start": 94940,
+               "end": 95800,
+               "confidence": 0.9336,
+               "speaker": "2",
+               "channel": "2"
+            },
+            {
+               "text": "hunt",
+               "start": 99680,
+               "end": 100540,
+               "confidence": 0.51097,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "hunt",
+         "confidence": 0.86641,
+         "start": 99760,
+         "end": 100540,
+         "words": [
+            {
+               "text": "hunt",
+               "start": 99760,
+               "end": 100540,
+               "confidence": 0.86641,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "null",
+         "confidence": 0.92959,
+         "start": 104850,
+         "end": 105710,
+         "words": [
+            {
+               "text": "null",
+               "start": 104850,
+               "end": 105710,
+               "confidence": 0.92959,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "null box",
+         "confidence": 0.808295,
+         "start": 104880,
+         "end": 110530,
+         "words": [
+            {
+               "text": "null",
+               "start": 104880,
+               "end": 105740,
+               "confidence": 0.98033,
+               "speaker": "1",
+               "channel": "1"
+            },
+            {
+               "text": "box",
+               "start": 109780,
+               "end": 110530,
+               "confidence": 0.63626,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "box",
+         "confidence": 0.5536,
+         "start": 109780,
+         "end": 110530,
+         "words": [
+            {
+               "text": "box",
+               "start": 109780,
+               "end": 110530,
+               "confidence": 0.5536,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "r",
+         "confidence": 0.7519,
+         "start": 114870,
+         "end": 115620,
+         "words": [
+            {
+               "text": "r",
+               "start": 114870,
+               "end": 115620,
+               "confidence": 0.7519,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "r",
+         "confidence": 0.72239,
+         "start": 114870,
+         "end": 115620,
+         "words": [
+            {
+               "text": "r",
+               "start": 114870,
+               "end": 115620,
+               "confidence": 0.72239,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "teach",
+         "confidence": 0.58074,
+         "start": 119530,
+         "end": 120280,
+         "words": [
+            {
+               "text": "teach",
+               "start": 119530,
+               "end": 120280,
+               "confidence": 0.58074,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "teach",
+         "confidence": 0.52619,
+         "start": 119530,
+         "end": 120280,
+         "words": [
+            {
+               "text": "teach",
+               "start": 119530,
+               "end": 120280,
+               "confidence": 0.52619,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "slice",
+         "confidence": 0.68577,
+         "start": 124490,
+         "end": 125430,
+         "words": [
+            {
+               "text": "slice",
+               "start": 124490,
+               "end": 125430,
+               "confidence": 0.68577,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "slice",
+         "confidence": 0.73982,
+         "start": 124490,
+         "end": 125430,
+         "words": [
+            {
+               "text": "slice",
+               "start": 124490,
+               "end": 125430,
+               "confidence": 0.73982,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "is",
+         "confidence": 0.99806,
+         "start": 129770,
+         "end": 130520,
+         "words": [
+            {
+               "text": "is",
+               "start": 129770,
+               "end": 130520,
+               "confidence": 0.99806,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "is",
+         "confidence": 0.99812,
+         "start": 129770,
+         "end": 130520,
+         "words": [
+            {
+               "text": "is",
+               "start": 129770,
+               "end": 130520,
+               "confidence": 0.99812,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "tree",
+         "confidence": 0.96839,
+         "start": 134530,
+         "end": 135470,
+         "words": [
+            {
+               "text": "tree",
+               "start": 134530,
+               "end": 135470,
+               "confidence": 0.96839,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "tree",
+         "confidence": 0.96674,
+         "start": 134530,
+         "end": 135470,
+         "words": [
+            {
+               "text": "tree",
+               "start": 134530,
+               "end": 135470,
+               "confidence": 0.96674,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "smile",
+         "confidence": 0.81969,
+         "start": 139490,
+         "end": 140350,
+         "words": [
+            {
+               "text": "smile",
+               "start": 139490,
+               "end": 140350,
+               "confidence": 0.81969,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "smile",
+         "confidence": 0.77163,
+         "start": 139490,
+         "end": 140350,
+         "words": [
+            {
+               "text": "smile",
+               "start": 139490,
+               "end": 140350,
+               "confidence": 0.77163,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "bath",
+         "confidence": 0.58622,
+         "start": 144410,
+         "end": 145350,
+         "words": [
+            {
+               "text": "bath",
+               "start": 144410,
+               "end": 145350,
+               "confidence": 0.58622,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "bath slip",
+         "confidence": 0.549315,
+         "start": 144410,
+         "end": 150470,
+         "words": [
+            {
+               "text": "bath",
+               "start": 144410,
+               "end": 145350,
+               "confidence": 0.53084,
+               "speaker": "2",
+               "channel": "2"
+            },
+            {
+               "text": "slip",
+               "start": 149450,
+               "end": 150470,
+               "confidence": 0.56779,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "slip",
+         "confidence": 0.72951,
+         "start": 149460,
+         "end": 150480,
+         "words": [
+            {
+               "text": "slip",
+               "start": 149460,
+               "end": 150480,
+               "confidence": 0.72951,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "ride",
+         "confidence": 0.68554,
+         "start": 154530,
+         "end": 155470,
+         "words": [
+            {
+               "text": "ride",
+               "start": 154530,
+               "end": 155470,
+               "confidence": 0.68554,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "ride end",
+         "confidence": 0.804475,
+         "start": 154540,
+         "end": 160230,
+         "words": [
+            {
+               "text": "ride",
+               "start": 154540,
+               "end": 155480,
+               "confidence": 0.75047,
+               "speaker": "1",
+               "channel": "1"
+            },
+            {
+               "text": "end",
+               "start": 159480,
+               "end": 160230,
+               "confidence": 0.85848,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "end pink",
+         "confidence": 0.72634,
+         "start": 159500,
+         "end": 165060,
+         "words": [
+            {
+               "text": "end",
+               "start": 159500,
+               "end": 160250,
+               "confidence": 0.89574,
+               "speaker": "2",
+               "channel": "2"
+            },
+            {
+               "text": "pink",
+               "start": 164120,
+               "end": 165060,
+               "confidence": 0.55694,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "pink you",
+         "confidence": 0.562915,
+         "start": 164140,
+         "end": 168410,
+         "words": [
+            {
+               "text": "pink",
+               "start": 164140,
+               "end": 165000,
+               "confidence": 0.73422,
+               "speaker": "1",
+               "channel": "1"
+            },
+            {
+               "text": "you",
+               "start": 167660,
+               "end": 168410,
+               "confidence": 0.39161,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "thank",
+         "confidence": 0.56562,
+         "start": 169360,
+         "end": 170110,
+         "words": [
+            {
+               "text": "thank",
+               "start": 169360,
+               "end": 170110,
+               "confidence": 0.56562,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "thank",
+         "confidence": 0.63455,
+         "start": 169380,
+         "end": 170130,
+         "words": [
+            {
+               "text": "thank",
+               "start": 169380,
+               "end": 170130,
+               "confidence": 0.63455,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "take",
+         "confidence": 0.88131,
+         "start": 174240,
+         "end": 174990,
+         "words": [
+            {
+               "text": "take",
+               "start": 174240,
+               "end": 174990,
+               "confidence": 0.88131,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "take",
+         "confidence": 0.95692,
+         "start": 174250,
+         "end": 175000,
+         "words": [
+            {
+               "text": "take",
+               "start": 174250,
+               "end": 175000,
+               "confidence": 0.95692,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "cart",
+         "confidence": 0.54933,
+         "start": 179760,
+         "end": 180700,
+         "words": [
+            {
+               "text": "cart",
+               "start": 179760,
+               "end": 180700,
+               "confidence": 0.54933,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "cart",
+         "confidence": 0.65745,
+         "start": 179770,
+         "end": 180710,
+         "words": [
+            {
+               "text": "cart",
+               "start": 179770,
+               "end": 180710,
+               "confidence": 0.65745,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "scab",
+         "confidence": 0.98872,
+         "start": 184400,
+         "end": 185340,
+         "words": [
+            {
+               "text": "scab",
+               "start": 184400,
+               "end": 185340,
+               "confidence": 0.98872,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "scab",
+         "confidence": 0.99213,
+         "start": 184410,
+         "end": 185350,
+         "words": [
+            {
+               "text": "scab",
+               "start": 184410,
+               "end": 185350,
+               "confidence": 0.99213,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "lay",
+         "confidence": 0.8267,
+         "start": 189440,
+         "end": 190190,
+         "words": [
+            {
+               "text": "lay",
+               "start": 189440,
+               "end": 190190,
+               "confidence": 0.8267,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "lay class s",
+         "confidence": 0.7885266666666667,
+         "start": 189450,
+         "end": 195760,
+         "words": [
+            {
+               "text": "lay",
+               "start": 189450,
+               "end": 190200,
+               "confidence": 0.92615,
+               "speaker": "1",
+               "channel": "1"
+            },
+            {
+               "text": "class",
+               "start": 194410,
+               "end": 194990,
+               "confidence": 0.55876,
+               "speaker": "1",
+               "channel": "1"
+            },
+            {
+               "text": "s",
+               "start": 195100,
+               "end": 195760,
+               "confidence": 0.88067,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "class",
+         "confidence": 0.512,
+         "start": 194440,
+         "end": 195190,
+         "words": [
+            {
+               "text": "class",
+               "start": 194440,
+               "end": 195190,
+               "confidence": 0.512,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "me",
+         "confidence": 0.65726,
+         "start": 199250,
+         "end": 200000,
+         "words": [
+            {
+               "text": "me",
+               "start": 199250,
+               "end": 200000,
+               "confidence": 0.65726,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "me dish",
+         "confidence": 0.99586,
+         "start": 199320,
+         "end": 205140,
+         "words": [
+            {
+               "text": "me",
+               "start": 199320,
+               "end": 200070,
+               "confidence": 0.99472,
+               "speaker": "2",
+               "channel": "2"
+            },
+            {
+               "text": "dish",
+               "start": 204200,
+               "end": 205140,
+               "confidence": 0.997,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "dish neck",
+         "confidence": 0.5246999999999999,
+         "start": 204210,
+         "end": 210150,
+         "words": [
+            {
+               "text": "dish",
+               "start": 204210,
+               "end": 205070,
+               "confidence": 0.61098,
+               "speaker": "1",
+               "channel": "1"
+            },
+            {
+               "text": "neck",
+               "start": 209210,
+               "end": 210150,
+               "confidence": 0.43842,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "neck beef",
+         "confidence": 0.571715,
+         "start": 209280,
+         "end": 215220,
+         "words": [
+            {
+               "text": "neck",
+               "start": 209280,
+               "end": 210140,
+               "confidence": 0.57801,
+               "speaker": "2",
+               "channel": "2"
+            },
+            {
+               "text": "beef",
+               "start": 214280,
+               "end": 215220,
+               "confidence": 0.56542,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "beef",
+         "confidence": 0.44265,
+         "start": 214290,
+         "end": 215150,
+         "words": [
+            {
+               "text": "beef",
+               "start": 214290,
+               "end": 215150,
+               "confidence": 0.44265,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "few",
+         "confidence": 0.86648,
+         "start": 219160,
+         "end": 219910,
+         "words": [
+            {
+               "text": "few",
+               "start": 219160,
+               "end": 219910,
+               "confidence": 0.86648,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "few you use",
+         "confidence": 0.5119733333333333,
+         "start": 219170,
+         "end": 224920,
+         "words": [
+            {
+               "text": "few",
+               "start": 219170,
+               "end": 219920,
+               "confidence": 0.82157,
+               "speaker": "1",
+               "channel": "1"
+            },
+            {
+               "text": "you",
+               "start": 222930,
+               "end": 223680,
+               "confidence": 0.26163,
+               "speaker": "1",
+               "channel": "1"
+            },
+            {
+               "text": "use",
+               "start": 224170,
+               "end": 224920,
+               "confidence": 0.45272,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "use did",
+         "confidence": 0.77386,
+         "start": 224240,
+         "end": 229630,
+         "words": [
+            {
+               "text": "use",
+               "start": 224240,
+               "end": 224990,
+               "confidence": 0.80874,
+               "speaker": "2",
+               "channel": "2"
+            },
+            {
+               "text": "did",
+               "start": 228880,
+               "end": 229630,
+               "confidence": 0.73898,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "did bit",
+         "confidence": 0.876945,
+         "start": 228890,
+         "end": 234680,
+         "words": [
+            {
+               "text": "did",
+               "start": 228890,
+               "end": 229640,
+               "confidence": 0.79135,
+               "speaker": "1",
+               "channel": "1"
+            },
+            {
+               "text": "bit",
+               "start": 233930,
+               "end": 234680,
+               "confidence": 0.96254,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "bit",
+         "confidence": 0.9619,
+         "start": 233970,
+         "end": 234720,
+         "words": [
+            {
+               "text": "bit",
+               "start": 233970,
+               "end": 234720,
+               "confidence": 0.9619,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "pond",
+         "confidence": 0.92862,
+         "start": 239050,
+         "end": 239990,
+         "words": [
+            {
+               "text": "pond",
+               "start": 239050,
+               "end": 239990,
+               "confidence": 0.92862,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "pond",
+         "confidence": 0.49229,
+         "start": 239090,
+         "end": 239950,
+         "words": [
+            {
+               "text": "pond",
+               "start": 239090,
+               "end": 239950,
+               "confidence": 0.49229,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "hot",
+         "confidence": 0.78386,
+         "start": 244080,
+         "end": 244830,
+         "words": [
+            {
+               "text": "hot",
+               "start": 244080,
+               "end": 244830,
+               "confidence": 0.78386,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "hot",
+         "confidence": 0.92643,
+         "start": 244120,
+         "end": 244870,
+         "words": [
+            {
+               "text": "hot",
+               "start": 244120,
+               "end": 244870,
+               "confidence": 0.92643,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "oh own",
+         "confidence": 0.723275,
+         "start": 249040,
+         "end": 250070,
+         "words": [
+            {
+               "text": "oh",
+               "start": 249040,
+               "end": 249428,
+               "confidence": 0.74605,
+               "speaker": "1",
+               "channel": "1"
+            },
+            {
+               "text": "own",
+               "start": 249474,
+               "end": 250070,
+               "confidence": 0.7005,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "own bead",
+         "confidence": 0.895265,
+         "start": 249280,
+         "end": 254940,
+         "words": [
+            {
+               "text": "own",
+               "start": 249280,
+               "end": 250030,
+               "confidence": 0.8917,
+               "speaker": "2",
+               "channel": "2"
+            },
+            {
+               "text": "bead",
+               "start": 254000,
+               "end": 254940,
+               "confidence": 0.89883,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "bead",
+         "confidence": 0.78798,
+         "start": 254040,
+         "end": 254900,
+         "words": [
+            {
+               "text": "bead",
+               "start": 254040,
+               "end": 254900,
+               "confidence": 0.78798,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      },
+      {
+         "channel": "2",
+         "text": "shop",
+         "confidence": 0.77633,
+         "start": 259090,
+         "end": 259840,
+         "words": [
+            {
+               "text": "shop",
+               "start": 259090,
+               "end": 259840,
+               "confidence": 0.77633,
+               "speaker": "2",
+               "channel": "2"
+            }
+         ],
+         "speaker": "2"
+      },
+      {
+         "channel": "1",
+         "text": "shop",
+         "confidence": 0.99459,
+         "start": 259130,
+         "end": 259880,
+         "words": [
+            {
+               "text": "shop",
+               "start": 259130,
+               "end": 259880,
+               "confidence": 0.99459,
+               "speaker": "1",
+               "channel": "1"
+            }
+         ],
+         "speaker": "1"
+      }
+   ],
+   "auto_highlights_result": null,
+   "run_time": 25.94,
+   "list_number": 1
+}

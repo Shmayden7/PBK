@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Laugh",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.77,
+         "start_time": 3.05,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.87,
+   "duration": 4
+}

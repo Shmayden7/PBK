@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.56,
+               "content": "Greg",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.53,
+         "start_time": 2.08,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.11,
+   "duration": 5
+}

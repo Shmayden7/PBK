@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.34,
+               "content": "Pond",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 0.89,
+         "start_time": 0.41,
+         "type": "word"
+      }
+   ],
+   "run_time": 31.57,
+   "duration": 0
+}

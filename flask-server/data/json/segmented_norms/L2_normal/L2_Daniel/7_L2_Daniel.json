@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.9,
+               "content": "Park",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.5,
+         "start_time": 1.72,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.74,
+   "duration": 4
+}

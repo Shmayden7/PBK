@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.64,
+               "content": "Crap",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.24,
+         "start_time": 2.58,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.88,
+   "duration": 4
+}

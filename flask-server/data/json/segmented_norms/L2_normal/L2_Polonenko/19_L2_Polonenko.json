@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "His",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.44,
+         "start_time": 2.45,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.31,
+   "duration": 4
+}

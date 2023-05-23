@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.83,
+               "content": "Waste",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.27,
+         "start_time": 2.43,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.58,
+   "duration": 4
+}

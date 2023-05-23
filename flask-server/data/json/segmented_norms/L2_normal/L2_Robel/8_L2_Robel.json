@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.91,
+               "content": "Wait",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.21,
+         "start_time": 1.37,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.43,
+   "duration": 4
+}

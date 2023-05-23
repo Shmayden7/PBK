@@ -1,0 +1,115 @@
+{
+   "audio_duration": 14,
+   "text": "say the word please please say the word great great say the word sled sled",
+   "words": [
+      {
+         "text": "say",
+         "start": 1770,
+         "end": 1934,
+         "confidence": 0.99951,
+         "speaker": null
+      },
+      {
+         "text": "the",
+         "start": 1972,
+         "end": 2126,
+         "confidence": 0.99942,
+         "speaker": null
+      },
+      {
+         "text": "word",
+         "start": 2148,
+         "end": 2430,
+         "confidence": 0.98739,
+         "speaker": null
+      },
+      {
+         "text": "please",
+         "start": 2500,
+         "end": 3214,
+         "confidence": 0.9999,
+         "speaker": null
+      },
+      {
+         "text": "please",
+         "start": 3412,
+         "end": 4160,
+         "confidence": 0.7344,
+         "speaker": null
+      },
+      {
+         "text": "say",
+         "start": 5890,
+         "end": 6254,
+         "confidence": 0.99625,
+         "speaker": null
+      },
+      {
+         "text": "the",
+         "start": 6292,
+         "end": 6446,
+         "confidence": 0.99893,
+         "speaker": null
+      },
+      {
+         "text": "word",
+         "start": 6468,
+         "end": 6750,
+         "confidence": 0.98729,
+         "speaker": null
+      },
+      {
+         "text": "great",
+         "start": 6820,
+         "end": 7440,
+         "confidence": 0.99866,
+         "speaker": null
+      },
+      {
+         "text": "great",
+         "start": 7890,
+         "end": 8640,
+         "confidence": 0.56931,
+         "speaker": null
+      },
+      {
+         "text": "say",
+         "start": 10610,
+         "end": 10974,
+         "confidence": 0.99942,
+         "speaker": null
+      },
+      {
+         "text": "the",
+         "start": 11012,
+         "end": 11166,
+         "confidence": 0.99977,
+         "speaker": null
+      },
+      {
+         "text": "word",
+         "start": 11188,
+         "end": 11422,
+         "confidence": 0.99864,
+         "speaker": null
+      },
+      {
+         "text": "sled",
+         "start": 11476,
+         "end": 12346,
+         "confidence": 0.4748,
+         "speaker": null
+      },
+      {
+         "text": "sled",
+         "start": 12538,
+         "end": 12890,
+         "confidence": 0.47794,
+         "speaker": null
+      }
+   ],
+   "utterances": null,
+   "auto_highlights_result": null,
+   "run_time": 12.77,
+   "list_number": 1
+}

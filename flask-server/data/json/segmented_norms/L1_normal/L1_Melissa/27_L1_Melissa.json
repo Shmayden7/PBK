@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Slip",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.21,
+         "start_time": 1.58,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.21,
+   "duration": 5
+}

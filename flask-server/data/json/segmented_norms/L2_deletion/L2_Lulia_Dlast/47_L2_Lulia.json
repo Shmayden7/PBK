@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.95,
+               "content": "Find",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.38,
+         "start_time": 0.05,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.47,
+   "duration": 0
+}

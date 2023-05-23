@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.76,
+               "content": "Smile",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.38,
+         "start_time": 0.11,
+         "type": "word"
+      }
+   ],
+   "run_time": 35.03,
+   "duration": 0
+}

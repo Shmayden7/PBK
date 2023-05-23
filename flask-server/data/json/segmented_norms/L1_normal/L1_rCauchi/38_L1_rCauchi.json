@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.38,
+               "content": "Dash",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.46,
+         "start_time": 2.68,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.35,
+   "duration": 4
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.92,
+               "content": "Play",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.01,
+         "start_time": 2.41,
+         "type": "word"
+      }
+   ],
+   "run_time": 17.92,
+   "duration": 4
+}

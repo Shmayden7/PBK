@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Pink",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.71,
+         "start_time": 2.02,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.43,
+   "duration": 5
+}

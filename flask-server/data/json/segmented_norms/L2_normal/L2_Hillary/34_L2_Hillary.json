@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.84,
+               "content": "Bud",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.31,
+         "start_time": 2.5,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.73,
+   "duration": 4
+}

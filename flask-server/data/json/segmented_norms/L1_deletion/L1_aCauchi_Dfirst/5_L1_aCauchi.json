@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.71,
+               "content": "Add",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.49,
+         "start_time": 0.05,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.98,
+   "duration": 0
+}

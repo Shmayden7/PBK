@@ -1,10 +1,9 @@
 #########################
 # Imports:
 from deepgram import Deepgram
-import asyncio, json, sys
+import asyncio
 from .deepgram_key import DEEPGRAM_API_KEY
 # Constants:
-FILE = 'YOUR_FILE_LOCATION'
 #########################
 
 #########################
@@ -15,7 +14,7 @@ FILE = 'YOUR_FILE_LOCATION'
 # Dependant on: N.A.
 # MUST BE RUN AS AWAIT
 #########################
-async def getDeepgramDataNew(file_name, audio_path='data/audio/', fileType='audio/wav'):
+async def getDeepgramDataNew(file_name, audio_path='data/audio/'):
   
   file_path = audio_path + file_name
 
@@ -34,10 +33,11 @@ async def getDeepgramDataNew(file_name, audio_path='data/audio/', fileType='audi
     # Open the audio filePath
     audio = open(file_path, 'rb')
 
+    mimetype = 'audio/{}'.format(file_name[-4:])
     # Set the source
     source = {
       'buffer': audio,
-      'mimetype': fileType
+      'mimetype': mimetype
     }
 
   # Send the audio to Deepgram and get the response
@@ -45,8 +45,9 @@ async def getDeepgramDataNew(file_name, audio_path='data/audio/', fileType='audi
     deepgram.transcription.prerecorded(
       source,
       {
-        'punctuate': True # adds: , ? ! . ect.
+        'punctuate': False # adds: , ? ! . ect.
       }
     )
   )
+  print('Got Data!')
   return response

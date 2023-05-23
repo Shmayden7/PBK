@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.73,
+               "content": "Wreck",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.24,
+         "start_time": 2.28,
+         "type": "word"
+      }
+   ],
+   "run_time": 20.04,
+   "duration": 4
+}

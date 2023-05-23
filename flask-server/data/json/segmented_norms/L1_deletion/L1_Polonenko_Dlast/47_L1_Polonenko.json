@@ -1,0 +1,22 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.89,
+               "content": "Oh",
+               "language": "en",
+               "tags": [
+                  "disfluency"
+               ]
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.47,
+         "start_time": 0.26,
+         "type": "word"
+      }
+   ],
+   "run_time": 17.79,
+   "duration": 0
+}

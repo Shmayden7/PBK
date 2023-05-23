@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.57,
+               "content": "Thank",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.15,
+         "start_time": 2.4,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.52,
+   "duration": 4
+}

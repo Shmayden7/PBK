@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Splash",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 4.09,
+         "start_time": 3.31,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.5,
+   "duration": 4
+}

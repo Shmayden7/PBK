@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.82,
+               "content": "Peg",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.05,
+         "start_time": 2.24,
+         "type": "word"
+      }
+   ],
+   "run_time": 21.12,
+   "duration": 4
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.26,
+               "content": "Parts",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.58,
+         "start_time": 1.8,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.02,
+   "duration": 4
+}

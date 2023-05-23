@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Turn",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.85,
+         "start_time": 1.95,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.47,
+   "duration": 4
+}

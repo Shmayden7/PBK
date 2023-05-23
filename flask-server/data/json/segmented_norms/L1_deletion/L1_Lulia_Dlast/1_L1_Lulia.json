@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Great",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.5,
+         "start_time": 0.32,
+         "type": "word"
+      }
+   ],
+   "run_time": 17.93,
+   "duration": 0
+}

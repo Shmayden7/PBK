@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Did",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.5,
+         "start_time": 0.23,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.01,
+   "duration": 0
+}

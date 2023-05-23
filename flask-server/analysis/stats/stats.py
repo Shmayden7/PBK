@@ -1,7 +1,6 @@
 #########################
 # Imports:
-from analysis.export_helpers import dumpDictToJSON
-from analysis.import_helpers import loadDictFromJSON
+from analysis.json_helpers import dumpDictToJSON, loadDictFromJSON
 # Constants:
 
 file_name = 'list_1_assembly_t1.json'

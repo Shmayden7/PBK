@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.95,
+               "content": "Darn",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.02,
+         "start_time": 2.21,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.94,
+   "duration": 4
+}

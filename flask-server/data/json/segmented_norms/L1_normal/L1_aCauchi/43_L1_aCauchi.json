@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Did",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.71,
+         "start_time": 1.84,
+         "type": "word"
+      }
+   ],
+   "run_time": 17.72,
+   "duration": 4
+}

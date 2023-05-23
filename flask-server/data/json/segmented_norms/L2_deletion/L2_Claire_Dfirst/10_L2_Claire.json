@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.38,
+               "content": "That",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.45,
+         "start_time": 0.29,
+         "type": "word"
+      }
+   ],
+   "run_time": 32.74,
+   "duration": 0
+}

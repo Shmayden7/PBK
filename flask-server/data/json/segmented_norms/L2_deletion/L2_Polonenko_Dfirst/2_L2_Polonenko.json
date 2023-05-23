@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "East",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.56,
+         "start_time": 0.02,
+         "type": "word"
+      }
+   ],
+   "run_time": 32.77,
+   "duration": 0
+}

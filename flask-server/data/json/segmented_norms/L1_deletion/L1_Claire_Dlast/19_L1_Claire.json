@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.66,
+               "content": "But",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.38,
+         "start_time": 0.23,
+         "type": "word"
+      }
+   ],
+   "run_time": 32.42,
+   "duration": 0
+}

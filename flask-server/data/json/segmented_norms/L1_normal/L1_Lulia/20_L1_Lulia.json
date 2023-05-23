@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.71,
+               "content": "Are",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.28,
+         "start_time": 2.68,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.86,
+   "duration": 4
+}

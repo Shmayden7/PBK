@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.35,
+               "content": "Sack",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.41,
+         "start_time": 2.66,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.51,
+   "duration": 4
+}

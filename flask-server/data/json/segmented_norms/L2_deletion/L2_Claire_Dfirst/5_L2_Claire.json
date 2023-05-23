@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "We",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.56,
+         "start_time": 0.26,
+         "type": "word"
+      }
+   ],
+   "run_time": 32.45,
+   "duration": 0
+}

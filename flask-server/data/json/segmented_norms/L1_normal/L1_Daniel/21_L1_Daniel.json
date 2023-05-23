@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Teach",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.83,
+         "start_time": 1.96,
+         "type": "word"
+      }
+   ],
+   "run_time": 20.81,
+   "duration": 4
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.92,
+               "content": "Shop",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.84,
+         "start_time": 2.12,
+         "type": "word"
+      }
+   ],
+   "run_time": 20.65,
+   "duration": 5
+}

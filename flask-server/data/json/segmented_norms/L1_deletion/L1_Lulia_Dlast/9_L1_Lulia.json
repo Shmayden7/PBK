@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.24,
+               "content": "Knee",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.43,
+         "start_time": 0.2,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.38,
+   "duration": 0
+}

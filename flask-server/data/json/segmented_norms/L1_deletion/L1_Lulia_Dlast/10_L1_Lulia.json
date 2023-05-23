@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.9,
+               "content": "Ways",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.5,
+         "start_time": 0.14,
+         "type": "word"
+      }
+   ],
+   "run_time": 31.85,
+   "duration": 0
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.98,
+               "content": "Knife",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.6,
+         "start_time": 1.85,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.91,
+   "duration": 4
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.71,
+               "content": "Trey",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.44,
+         "start_time": 1.84,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.67,
+   "duration": 4
+}

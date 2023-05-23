@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.52,
+               "content": "Nick",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 1.81,
+         "start_time": 1.36,
+         "type": "word"
+      }
+   ],
+   "run_time": 35.73,
+   "duration": 5
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Dish",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.71,
+         "start_time": 1.96,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.82,
+   "duration": 5
+}

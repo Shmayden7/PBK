@@ -1,0 +1,374 @@
+{
+   "audio_duration": 250,
+   "text": "please great sled pants rat bad pinch such bus knee it wave five mouth rag put fed fold hunt no box r peach slice is tree smile bath slips ride end pink thank cart scab lay class me did shack beef few use did bit pond hot own you bead shop close",
+   "words": [
+      {
+         "text": "please",
+         "start": 2490,
+         "end": 3040,
+         "confidence": 0.99622,
+         "speaker": null
+      },
+      {
+         "text": "great",
+         "start": 7190,
+         "end": 7940,
+         "confidence": 0.99474,
+         "speaker": null
+      },
+      {
+         "text": "sled",
+         "start": 12210,
+         "end": 13150,
+         "confidence": 0.38979,
+         "speaker": null
+      },
+      {
+         "text": "pants",
+         "start": 17110,
+         "end": 18130,
+         "confidence": 0.54429,
+         "speaker": null
+      },
+      {
+         "text": "rat",
+         "start": 22100,
+         "end": 23040,
+         "confidence": 0.96892,
+         "speaker": null
+      },
+      {
+         "text": "bad",
+         "start": 27120,
+         "end": 27870,
+         "confidence": 0.98189,
+         "speaker": null
+      },
+      {
+         "text": "pinch",
+         "start": 32020,
+         "end": 33040,
+         "confidence": 0.6921,
+         "speaker": null
+      },
+      {
+         "text": "such",
+         "start": 37140,
+         "end": 37890,
+         "confidence": 0.74823,
+         "speaker": null
+      },
+      {
+         "text": "bus",
+         "start": 42050,
+         "end": 42800,
+         "confidence": 0.8839,
+         "speaker": null
+      },
+      {
+         "text": "knee",
+         "start": 47120,
+         "end": 47696,
+         "confidence": 0.92734,
+         "speaker": null
+      },
+      {
+         "text": "it",
+         "start": 47768,
+         "end": 48390,
+         "confidence": 0.44854,
+         "speaker": null
+      },
+      {
+         "text": "wave",
+         "start": 52310,
+         "end": 53250,
+         "confidence": 0.4113,
+         "speaker": null
+      },
+      {
+         "text": "five",
+         "start": 57320,
+         "end": 58070,
+         "confidence": 0.99679,
+         "speaker": null
+      },
+      {
+         "text": "mouth",
+         "start": 62100,
+         "end": 63040,
+         "confidence": 0.90026,
+         "speaker": null
+      },
+      {
+         "text": "rag",
+         "start": 67160,
+         "end": 68100,
+         "confidence": 0.52812,
+         "speaker": null
+      },
+      {
+         "text": "put",
+         "start": 71990,
+         "end": 72740,
+         "confidence": 0.88703,
+         "speaker": null
+      },
+      {
+         "text": "fed",
+         "start": 77100,
+         "end": 78040,
+         "confidence": 0.55413,
+         "speaker": null
+      },
+      {
+         "text": "fold",
+         "start": 82170,
+         "end": 83110,
+         "confidence": 0.99835,
+         "speaker": null
+      },
+      {
+         "text": "hunt",
+         "start": 87080,
+         "end": 87860,
+         "confidence": 0.68173,
+         "speaker": null
+      },
+      {
+         "text": "no",
+         "start": 92010,
+         "end": 92760,
+         "confidence": 0.90696,
+         "speaker": null
+      },
+      {
+         "text": "box",
+         "start": 96800,
+         "end": 97550,
+         "confidence": 0.82388,
+         "speaker": null
+      },
+      {
+         "text": "r",
+         "start": 102070,
+         "end": 102820,
+         "confidence": 0.56314,
+         "speaker": null
+      },
+      {
+         "text": "peach",
+         "start": 106910,
+         "end": 107850,
+         "confidence": 0.38142,
+         "speaker": null
+      },
+      {
+         "text": "slice",
+         "start": 111890,
+         "end": 112830,
+         "confidence": 0.97235,
+         "speaker": null
+      },
+      {
+         "text": "is",
+         "start": 116910,
+         "end": 117660,
+         "confidence": 0.95704,
+         "speaker": null
+      },
+      {
+         "text": "tree",
+         "start": 121920,
+         "end": 122860,
+         "confidence": 0.99496,
+         "speaker": null
+      },
+      {
+         "text": "smile",
+         "start": 127040,
+         "end": 127900,
+         "confidence": 0.82216,
+         "speaker": null
+      },
+      {
+         "text": "bath",
+         "start": 131860,
+         "end": 132800,
+         "confidence": 0.50295,
+         "speaker": null
+      },
+      {
+         "text": "slips",
+         "start": 136720,
+         "end": 137740,
+         "confidence": 0.36752,
+         "speaker": null
+      },
+      {
+         "text": "ride",
+         "start": 141740,
+         "end": 142600,
+         "confidence": 0.27742,
+         "speaker": null
+      },
+      {
+         "text": "end",
+         "start": 146740,
+         "end": 147490,
+         "confidence": 0.80382,
+         "speaker": null
+      },
+      {
+         "text": "pink",
+         "start": 151520,
+         "end": 152380,
+         "confidence": 0.91682,
+         "speaker": null
+      },
+      {
+         "text": "thank",
+         "start": 156610,
+         "end": 157360,
+         "confidence": 0.40285,
+         "speaker": null
+      },
+      {
+         "text": "cart",
+         "start": 166690,
+         "end": 167710,
+         "confidence": 0.93364,
+         "speaker": null
+      },
+      {
+         "text": "scab",
+         "start": 171840,
+         "end": 172780,
+         "confidence": 0.96534,
+         "speaker": null
+      },
+      {
+         "text": "lay",
+         "start": 176620,
+         "end": 177370,
+         "confidence": 0.84817,
+         "speaker": null
+      },
+      {
+         "text": "class",
+         "start": 181770,
+         "end": 182520,
+         "confidence": 0.63362,
+         "speaker": null
+      },
+      {
+         "text": "me",
+         "start": 186640,
+         "end": 187390,
+         "confidence": 0.99491,
+         "speaker": null
+      },
+      {
+         "text": "did",
+         "start": 191440,
+         "end": 191924,
+         "confidence": 0.3159,
+         "speaker": null
+      },
+      {
+         "text": "shack",
+         "start": 192002,
+         "end": 197470,
+         "confidence": 0.49992,
+         "speaker": null
+      },
+      {
+         "text": "beef",
+         "start": 201540,
+         "end": 202480,
+         "confidence": 0.71308,
+         "speaker": null
+      },
+      {
+         "text": "few",
+         "start": 206440,
+         "end": 207190,
+         "confidence": 0.96014,
+         "speaker": null
+      },
+      {
+         "text": "use",
+         "start": 211530,
+         "end": 212280,
+         "confidence": 0.92581,
+         "speaker": null
+      },
+      {
+         "text": "did",
+         "start": 216270,
+         "end": 217020,
+         "confidence": 0.82308,
+         "speaker": null
+      },
+      {
+         "text": "bit",
+         "start": 221250,
+         "end": 222000,
+         "confidence": 0.96457,
+         "speaker": null
+      },
+      {
+         "text": "pond",
+         "start": 226380,
+         "end": 227320,
+         "confidence": 0.5972,
+         "speaker": null
+      },
+      {
+         "text": "hot",
+         "start": 231370,
+         "end": 232120,
+         "confidence": 0.99021,
+         "speaker": null
+      },
+      {
+         "text": "own",
+         "start": 236370,
+         "end": 237120,
+         "confidence": 0.98292,
+         "speaker": null
+      },
+      {
+         "text": "you",
+         "start": 240990,
+         "end": 241378,
+         "confidence": 0.19104,
+         "speaker": null
+      },
+      {
+         "text": "bead",
+         "start": 241424,
+         "end": 242130,
+         "confidence": 0.31798,
+         "speaker": null
+      },
+      {
+         "text": "shop",
+         "start": 246480,
+         "end": 247230,
+         "confidence": 0.66209,
+         "speaker": null
+      },
+      {
+         "text": "close",
+         "start": 249440,
+         "end": 249690,
+         "confidence": 0.54025,
+         "speaker": null
+      }
+   ],
+   "utterances": null,
+   "auto_highlights_result": null,
+   "run_time": 263.06,
+   "list_number": 1
+}

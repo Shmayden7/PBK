@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.55,
+               "content": "Freeze",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.27,
+         "start_time": 0.08,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.66,
+   "duration": 0
+}

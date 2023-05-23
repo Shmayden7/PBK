@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.66,
+               "content": "Axe",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.32,
+         "start_time": 2.6,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.5,
+   "duration": 4
+}

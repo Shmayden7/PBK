@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.6,
+               "content": "Rhett",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.44,
+         "start_time": 2.6,
+         "type": "word"
+      }
+   ],
+   "run_time": 35.74,
+   "duration": 5
+}

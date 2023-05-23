@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.9,
+               "content": "Rose",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.39,
+         "start_time": 2.58,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.05,
+   "duration": 4
+}

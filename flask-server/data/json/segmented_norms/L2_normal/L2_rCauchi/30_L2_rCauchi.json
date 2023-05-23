@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.76,
+               "content": "Crab",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.12,
+         "start_time": 1.31,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.52,
+   "duration": 4
+}

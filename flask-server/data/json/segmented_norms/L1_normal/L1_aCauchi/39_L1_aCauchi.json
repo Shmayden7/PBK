@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.86,
+               "content": "Neck",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.73,
+         "start_time": 1.8,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.53,
+   "duration": 4
+}

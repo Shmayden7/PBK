@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.98,
+               "content": "Find",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.73,
+         "start_time": 2.65,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.73,
+   "duration": 4
+}

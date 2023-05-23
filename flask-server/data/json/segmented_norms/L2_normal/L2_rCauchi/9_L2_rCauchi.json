@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.96,
+               "content": "Fat",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 1.6,
+         "start_time": 1.12,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.36,
+   "duration": 4
+}

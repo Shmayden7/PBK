@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.34,
+               "content": "Lip",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.8,
+         "start_time": 2.47,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.84,
+   "duration": 4
+}

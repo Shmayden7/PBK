@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.73,
+               "content": "Guts",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.38,
+         "start_time": 2.6,
+         "type": "word"
+      }
+   ],
+   "run_time": 37.59,
+   "duration": 4
+}

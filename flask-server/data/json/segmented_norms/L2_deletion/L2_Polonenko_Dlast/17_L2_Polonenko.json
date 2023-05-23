@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.4,
+               "content": "Be",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.21,
+         "start_time": 0.11,
+         "type": "word"
+      }
+   ],
+   "run_time": 32.25,
+   "duration": 0
+}

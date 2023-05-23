@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Scab",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.87,
+         "start_time": 1.85,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.39,
+   "duration": 4
+}

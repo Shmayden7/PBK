@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.57,
+               "content": "Way",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 1.84,
+         "start_time": 1.51,
+         "type": "word"
+      }
+   ],
+   "run_time": 20.17,
+   "duration": 5
+}

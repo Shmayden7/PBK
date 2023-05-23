@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Camp",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.53,
+         "start_time": 1.66,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.87,
+   "duration": 4
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.8,
+               "content": "Bath",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.21,
+         "start_time": 2.43,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.16,
+   "duration": 4
+}

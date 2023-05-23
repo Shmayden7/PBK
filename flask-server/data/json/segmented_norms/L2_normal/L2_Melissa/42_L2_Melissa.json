@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.54,
+               "content": "Fresh",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.39,
+         "start_time": 2.7,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.4,
+   "duration": 4
+}

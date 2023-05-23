@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Smile",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.6,
+         "start_time": 1.85,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.21,
+   "duration": 5
+}

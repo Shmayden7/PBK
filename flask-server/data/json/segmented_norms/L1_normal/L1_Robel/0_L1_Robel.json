@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Please",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 1.96,
+         "start_time": 1.03,
+         "type": "word"
+      }
+   ],
+   "run_time": 20.06,
+   "duration": 4
+}

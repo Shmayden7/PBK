@@ -1,0 +1,353 @@
+{
+   "audio_duration": 261,
+   "text": "laugh falls paste plow page weed gray park weight fat axe cage knife turn grab rose lip b his sing all bless suit splash path feed next wreck waste crab peg freeze race bud darn fair sack got as grew knee fresh tray cat on camp find yes loud",
+   "words": [
+      {
+         "text": "laugh",
+         "start": 12030,
+         "end": 12770,
+         "confidence": 0.6931,
+         "speaker": null
+      },
+      {
+         "text": "falls",
+         "start": 16290,
+         "end": 17310,
+         "confidence": 0.62187,
+         "speaker": null
+      },
+      {
+         "text": "paste",
+         "start": 21270,
+         "end": 22290,
+         "confidence": 0.58294,
+         "speaker": null
+      },
+      {
+         "text": "plow",
+         "start": 26340,
+         "end": 27200,
+         "confidence": 0.51659,
+         "speaker": null
+      },
+      {
+         "text": "page",
+         "start": 31200,
+         "end": 31950,
+         "confidence": 0.87691,
+         "speaker": null
+      },
+      {
+         "text": "weed",
+         "start": 36250,
+         "end": 37110,
+         "confidence": 0.51924,
+         "speaker": null
+      },
+      {
+         "text": "gray",
+         "start": 41330,
+         "end": 42190,
+         "confidence": 0.63341,
+         "speaker": null
+      },
+      {
+         "text": "park",
+         "start": 46200,
+         "end": 47140,
+         "confidence": 0.96824,
+         "speaker": null
+      },
+      {
+         "text": "weight",
+         "start": 51250,
+         "end": 52030,
+         "confidence": 0.60733,
+         "speaker": null
+      },
+      {
+         "text": "fat",
+         "start": 56150,
+         "end": 57010,
+         "confidence": 0.93358,
+         "speaker": null
+      },
+      {
+         "text": "axe",
+         "start": 61080,
+         "end": 62180,
+         "confidence": 0.75189,
+         "speaker": null
+      },
+      {
+         "text": "cage",
+         "start": 66110,
+         "end": 67050,
+         "confidence": 0.69684,
+         "speaker": null
+      },
+      {
+         "text": "knife",
+         "start": 71050,
+         "end": 71990,
+         "confidence": 0.57685,
+         "speaker": null
+      },
+      {
+         "text": "turn",
+         "start": 76030,
+         "end": 76780,
+         "confidence": 0.99968,
+         "speaker": null
+      },
+      {
+         "text": "grab",
+         "start": 80890,
+         "end": 81750,
+         "confidence": 0.9487,
+         "speaker": null
+      },
+      {
+         "text": "rose",
+         "start": 85870,
+         "end": 86810,
+         "confidence": 0.87442,
+         "speaker": null
+      },
+      {
+         "text": "lip",
+         "start": 90640,
+         "end": 91500,
+         "confidence": 0.96335,
+         "speaker": null
+      },
+      {
+         "text": "b",
+         "start": 95850,
+         "end": 96600,
+         "confidence": 0.62685,
+         "speaker": null
+      },
+      {
+         "text": "his",
+         "start": 105830,
+         "end": 106580,
+         "confidence": 0.73574,
+         "speaker": null
+      },
+      {
+         "text": "sing",
+         "start": 110750,
+         "end": 111500,
+         "confidence": 0.99569,
+         "speaker": null
+      },
+      {
+         "text": "all",
+         "start": 115600,
+         "end": 116350,
+         "confidence": 0.54849,
+         "speaker": null
+      },
+      {
+         "text": "bless",
+         "start": 120620,
+         "end": 121560,
+         "confidence": 0.61478,
+         "speaker": null
+      },
+      {
+         "text": "suit",
+         "start": 125730,
+         "end": 126670,
+         "confidence": 0.78448,
+         "speaker": null
+      },
+      {
+         "text": "splash",
+         "start": 130830,
+         "end": 131770,
+         "confidence": 0.95487,
+         "speaker": null
+      },
+      {
+         "text": "path",
+         "start": 135600,
+         "end": 136540,
+         "confidence": 0.66908,
+         "speaker": null
+      },
+      {
+         "text": "feed",
+         "start": 140670,
+         "end": 141610,
+         "confidence": 0.51265,
+         "speaker": null
+      },
+      {
+         "text": "next",
+         "start": 145460,
+         "end": 146210,
+         "confidence": 0.99773,
+         "speaker": null
+      },
+      {
+         "text": "wreck",
+         "start": 150290,
+         "end": 151150,
+         "confidence": 0.93913,
+         "speaker": null
+      },
+      {
+         "text": "waste",
+         "start": 155340,
+         "end": 156440,
+         "confidence": 0.52699,
+         "speaker": null
+      },
+      {
+         "text": "crab",
+         "start": 160370,
+         "end": 161310,
+         "confidence": 0.78486,
+         "speaker": null
+      },
+      {
+         "text": "peg",
+         "start": 165220,
+         "end": 166160,
+         "confidence": 0.61987,
+         "speaker": null
+      },
+      {
+         "text": "freeze",
+         "start": 170270,
+         "end": 171370,
+         "confidence": 0.78736,
+         "speaker": null
+      },
+      {
+         "text": "race",
+         "start": 175150,
+         "end": 176090,
+         "confidence": 0.40661,
+         "speaker": null
+      },
+      {
+         "text": "bud",
+         "start": 180120,
+         "end": 181060,
+         "confidence": 0.45638,
+         "speaker": null
+      },
+      {
+         "text": "darn",
+         "start": 185190,
+         "end": 186210,
+         "confidence": 0.98453,
+         "speaker": null
+      },
+      {
+         "text": "fair",
+         "start": 190190,
+         "end": 190940,
+         "confidence": 0.8258,
+         "speaker": null
+      },
+      {
+         "text": "sack",
+         "start": 195100,
+         "end": 196040,
+         "confidence": 0.79053,
+         "speaker": null
+      },
+      {
+         "text": "got",
+         "start": 200090,
+         "end": 200840,
+         "confidence": 0.85461,
+         "speaker": null
+      },
+      {
+         "text": "as",
+         "start": 205010,
+         "end": 205760,
+         "confidence": 0.88363,
+         "speaker": null
+      },
+      {
+         "text": "grew",
+         "start": 209820,
+         "end": 210920,
+         "confidence": 0.5095,
+         "speaker": null
+      },
+      {
+         "text": "knee",
+         "start": 214820,
+         "end": 215680,
+         "confidence": 0.631,
+         "speaker": null
+      },
+      {
+         "text": "fresh",
+         "start": 219950,
+         "end": 220810,
+         "confidence": 0.99057,
+         "speaker": null
+      },
+      {
+         "text": "tray",
+         "start": 224950,
+         "end": 225890,
+         "confidence": 0.87852,
+         "speaker": null
+      },
+      {
+         "text": "cat",
+         "start": 229700,
+         "end": 230450,
+         "confidence": 0.51854,
+         "speaker": null
+      },
+      {
+         "text": "on",
+         "start": 234790,
+         "end": 235540,
+         "confidence": 0.9869,
+         "speaker": null
+      },
+      {
+         "text": "camp",
+         "start": 239640,
+         "end": 240390,
+         "confidence": 0.91029,
+         "speaker": null
+      },
+      {
+         "text": "find",
+         "start": 244750,
+         "end": 245500,
+         "confidence": 0.99481,
+         "speaker": null
+      },
+      {
+         "text": "yes",
+         "start": 249680,
+         "end": 250430,
+         "confidence": 0.99976,
+         "speaker": null
+      },
+      {
+         "text": "loud",
+         "start": 254630,
+         "end": 255490,
+         "confidence": 0.89344,
+         "speaker": null
+      }
+   ],
+   "utterances": null,
+   "auto_highlights_result": null,
+   "run_time": 35.91,
+   "list_number": 1
+}

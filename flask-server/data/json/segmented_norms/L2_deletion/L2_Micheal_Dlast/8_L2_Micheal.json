@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.85,
+               "content": "Wait",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.3,
+         "start_time": 0.08,
+         "type": "word"
+      }
+   ],
+   "run_time": 32.32,
+   "duration": 0
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.56,
+               "content": "Grew",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.4,
+         "start_time": 2.95,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.26,
+   "duration": 4
+}

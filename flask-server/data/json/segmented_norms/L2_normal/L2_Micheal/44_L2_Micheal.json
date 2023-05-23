@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.81,
+               "content": "Cat",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.91,
+         "start_time": 2.22,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.13,
+   "duration": 4
+}

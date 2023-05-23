@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.5,
+               "content": "Teach",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.25,
+         "start_time": 0.11,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.67,
+   "duration": 0
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Hunt",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.26,
+         "start_time": 1.63,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.86,
+   "duration": 4
+}

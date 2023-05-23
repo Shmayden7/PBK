@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.84,
+               "content": "Ride",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.38,
+         "start_time": 1.63,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.78,
+   "duration": 5
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.51,
+               "content": "Hot",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.19,
+         "start_time": 0.08,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.36,
+   "duration": 0
+}

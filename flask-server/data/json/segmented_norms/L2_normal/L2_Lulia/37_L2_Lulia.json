@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "SAG",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.97,
+         "start_time": 3.04,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.95,
+   "duration": 4
+}

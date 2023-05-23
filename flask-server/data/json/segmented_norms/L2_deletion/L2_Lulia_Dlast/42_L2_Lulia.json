@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Fresh",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.29,
+         "start_time": 0.05,
+         "type": "word"
+      }
+   ],
+   "run_time": 17.99,
+   "duration": 0
+}

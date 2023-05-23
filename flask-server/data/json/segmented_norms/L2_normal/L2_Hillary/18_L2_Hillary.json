@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.79,
+               "content": "Bet",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.03,
+         "start_time": 2.49,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.35,
+   "duration": 4
+}

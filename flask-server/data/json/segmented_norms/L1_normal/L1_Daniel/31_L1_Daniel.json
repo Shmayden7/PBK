@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.7,
+               "content": "Think",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.86,
+         "start_time": 2.02,
+         "type": "word"
+      }
+   ],
+   "run_time": 20.16,
+   "duration": 4
+}

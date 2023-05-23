@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.84,
+               "content": "Fed",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.44,
+         "start_time": 2.02,
+         "type": "word"
+      }
+   ],
+   "run_time": 23.4,
+   "duration": 5
+}

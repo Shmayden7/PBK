@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.65,
+               "content": "SAT",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.83,
+         "start_time": 0.29,
+         "type": "word"
+      }
+   ],
+   "run_time": 17.11,
+   "duration": 0
+}

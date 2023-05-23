@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.92,
+               "content": "Falls",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.38,
+         "start_time": 2.51,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.3,
+   "duration": 4
+}

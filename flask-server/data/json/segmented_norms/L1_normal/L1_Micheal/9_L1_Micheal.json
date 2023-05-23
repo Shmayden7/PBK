@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Need",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.86,
+         "start_time": 3.17,
+         "type": "word"
+      }
+   ],
+   "run_time": 35.07,
+   "duration": 5
+}

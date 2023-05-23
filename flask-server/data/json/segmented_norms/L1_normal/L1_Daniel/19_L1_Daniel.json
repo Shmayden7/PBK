@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.72,
+               "content": "Box",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.89,
+         "start_time": 1.9,
+         "type": "word"
+      }
+   ],
+   "run_time": 20.62,
+   "duration": 4
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Mouth",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.34,
+         "start_time": 2.44,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.08,
+   "duration": 5
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.54,
+               "content": "Please",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.44,
+         "start_time": 0.01,
+         "type": "word"
+      }
+   ],
+   "run_time": 20.1,
+   "duration": 0
+}

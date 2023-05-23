@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.46,
+               "content": "Mouth",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.32,
+         "start_time": 0.14,
+         "type": "word"
+      }
+   ],
+   "run_time": 17.3,
+   "duration": 0
+}

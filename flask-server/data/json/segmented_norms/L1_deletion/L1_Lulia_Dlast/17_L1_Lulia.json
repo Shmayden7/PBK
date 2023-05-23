@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.7,
+               "content": "Hunt",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.44,
+         "start_time": 0.2,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.58,
+   "duration": 0
+}

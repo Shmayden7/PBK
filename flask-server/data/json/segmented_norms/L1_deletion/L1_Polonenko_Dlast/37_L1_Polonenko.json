@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.72,
+               "content": "Me",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.27,
+         "start_time": 0.17,
+         "type": "word"
+      }
+   ],
+   "run_time": 16.68,
+   "duration": 0
+}

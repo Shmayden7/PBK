@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.79,
+               "content": "Waste",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.51,
+         "start_time": 0.14,
+         "type": "word"
+      }
+   ],
+   "run_time": 32.51,
+   "duration": 0
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.52,
+               "content": "Fair",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.37,
+         "start_time": 2.74,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.86,
+   "duration": 4
+}

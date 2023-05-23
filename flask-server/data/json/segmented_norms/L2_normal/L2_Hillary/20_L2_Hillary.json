@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.82,
+               "content": "Sing",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.19,
+         "start_time": 2.41,
+         "type": "word"
+      }
+   ],
+   "run_time": 19.55,
+   "duration": 4
+}

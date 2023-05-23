@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.9,
+               "content": "I'd",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.53,
+         "start_time": 0.08,
+         "type": "word"
+      }
+   ],
+   "run_time": 17.78,
+   "duration": 0
+}

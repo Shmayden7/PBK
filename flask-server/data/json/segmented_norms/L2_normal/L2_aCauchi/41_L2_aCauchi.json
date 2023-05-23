@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.33,
+               "content": "Knee",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.4,
+         "start_time": 1.86,
+         "type": "word"
+      }
+   ],
+   "run_time": 17.78,
+   "duration": 4
+}

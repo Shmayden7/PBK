@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.71,
+               "content": "SAG",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.58,
+         "start_time": 0.11,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.26,
+   "duration": 0
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.98,
+               "content": "Pinch",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.84,
+         "start_time": 3.0,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.1,
+   "duration": 5
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.9,
+               "content": "Fair",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.62,
+         "start_time": 0.29,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.26,
+   "duration": 0
+}

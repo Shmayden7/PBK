@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Grab",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.19,
+         "start_time": 2.53,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.69,
+   "duration": 4
+}

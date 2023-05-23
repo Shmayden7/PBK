@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.88,
+               "content": "Turn",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.53,
+         "start_time": 0.17,
+         "type": "word"
+      }
+   ],
+   "run_time": 32.77,
+   "duration": 0
+}

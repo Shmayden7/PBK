@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Take",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.81,
+         "start_time": 1.94,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.41,
+   "duration": 4
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.44,
+               "content": "Paste",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.55,
+         "start_time": 0.11,
+         "type": "word"
+      }
+   ],
+   "run_time": 17.71,
+   "duration": 0
+}

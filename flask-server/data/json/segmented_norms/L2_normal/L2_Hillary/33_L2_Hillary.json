@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.83,
+               "content": "Race",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.45,
+         "start_time": 2.7,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.98,
+   "duration": 4
+}

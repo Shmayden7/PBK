@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.9,
+               "content": "Tree",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.52,
+         "start_time": 1.68,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.63,
+   "duration": 4
+}

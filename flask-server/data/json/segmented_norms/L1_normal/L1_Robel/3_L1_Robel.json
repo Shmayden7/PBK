@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.93,
+               "content": "Pence",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.12,
+         "start_time": 1.34,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.67,
+   "duration": 4
+}

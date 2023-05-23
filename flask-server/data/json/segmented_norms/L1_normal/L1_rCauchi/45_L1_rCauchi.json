@@ -1,0 +1,32 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.72,
+               "content": "No",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 0.75,
+         "start_time": 0.44,
+         "type": "word"
+      },
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "pond",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.71,
+         "start_time": 2.75,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.29,
+   "duration": 4
+}

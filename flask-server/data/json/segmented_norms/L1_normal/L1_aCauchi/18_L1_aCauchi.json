@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.94,
+               "content": "No",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.45,
+         "start_time": 1.55,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.43,
+   "duration": 4
+}

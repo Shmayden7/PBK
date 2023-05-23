@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.95,
+               "content": "Fold",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.34,
+         "start_time": 2.47,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.64,
+   "duration": 5
+}

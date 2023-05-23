@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.68,
+               "content": "Sang",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.06,
+         "start_time": 1.04,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.35,
+   "duration": 4
+}

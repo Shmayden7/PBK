@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Put",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.26,
+         "start_time": 0.08,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.42,
+   "duration": 0
+}

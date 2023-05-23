@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.89,
+               "content": "Let",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.79,
+         "start_time": 2.19,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.94,
+   "duration": 4
+}

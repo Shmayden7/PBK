@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.42,
+               "content": "Net",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.65,
+         "start_time": 0.44,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.17,
+   "duration": 0
+}

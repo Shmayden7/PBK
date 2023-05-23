@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0,
+               "content": "Slice",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.99,
+         "start_time": 1.94,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.31,
+   "duration": 4
+}

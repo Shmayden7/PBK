@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.61,
+               "content": "South",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.37,
+         "start_time": 0.02,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.44,
+   "duration": 0
+}

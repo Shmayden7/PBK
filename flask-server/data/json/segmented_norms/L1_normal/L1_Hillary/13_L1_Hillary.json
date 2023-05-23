@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.91,
+               "content": "Rag",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.4,
+         "start_time": 2.56,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.88,
+   "duration": 5
+}

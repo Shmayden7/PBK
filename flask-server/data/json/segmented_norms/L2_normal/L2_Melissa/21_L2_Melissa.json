@@ -1,0 +1,22 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.85,
+               "content": "Oh",
+               "language": "en",
+               "speaker": "UU",
+               "tags": [
+                  "disfluency"
+               ]
+            }
+         ],
+         "end_time": 3.11,
+         "start_time": 2.63,
+         "type": "word"
+      }
+   ],
+   "run_time": 20.53,
+   "duration": 4
+}

@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.44,
+               "content": "Bead",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.05,
+         "start_time": 2.21,
+         "type": "word"
+      }
+   ],
+   "run_time": 35.5,
+   "duration": 4
+}

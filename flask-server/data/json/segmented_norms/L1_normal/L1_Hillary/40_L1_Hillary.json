@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.99,
+               "content": "Beef",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.81,
+         "start_time": 1.94,
+         "type": "word"
+      }
+   ],
+   "run_time": 34.14,
+   "duration": 5
+}

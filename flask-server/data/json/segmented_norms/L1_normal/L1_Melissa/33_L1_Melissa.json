@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.37,
+               "content": "Cart",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 2.07,
+         "start_time": 1.62,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.59,
+   "duration": 5
+}

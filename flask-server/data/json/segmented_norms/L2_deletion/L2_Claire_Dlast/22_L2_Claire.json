@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.91,
+               "content": "Bless",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.72,
+         "start_time": 2.94,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.18,
+   "duration": 4
+}

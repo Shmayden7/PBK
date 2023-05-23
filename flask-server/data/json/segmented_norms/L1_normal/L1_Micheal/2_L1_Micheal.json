@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.96,
+               "content": "Sled",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.71,
+         "start_time": 3.2,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.96,
+   "duration": 5
+}

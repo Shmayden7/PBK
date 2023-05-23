@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.43,
+               "content": "Don",
+               "language": "en"
+            }
+         ],
+         "channel": "channel_1",
+         "end_time": 0.32,
+         "start_time": 0.08,
+         "type": "word"
+      }
+   ],
+   "run_time": 33.16,
+   "duration": 0
+}

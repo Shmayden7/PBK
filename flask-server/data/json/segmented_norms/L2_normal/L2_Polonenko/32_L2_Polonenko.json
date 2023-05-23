@@ -1,0 +1,19 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.76,
+               "content": "Freeze",
+               "language": "en",
+               "speaker": "UU"
+            }
+         ],
+         "end_time": 3.55,
+         "start_time": 2.47,
+         "type": "word"
+      }
+   ],
+   "run_time": 18.87,
+   "duration": 4
+}
